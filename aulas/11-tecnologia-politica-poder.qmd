@@ -1,0 +1,85 @@
+---
+title: "Aula 11 — Tecnologia, Política e Poder"
+---
+
+## Objetivos da aula
+
+- Entender a relação entre tecnologia, **vigilância** e **poder político**
+- Discutir o conceito de **big data** aplicado ao controle social
+- Analisar exemplos reais de vigilância digital em massa
+- Conectar com a obra *1984*, de George Orwell
+
+::: {.notes}
+Início do bloco final do PPC (política, poder, democracia, cidadania, direitos humanos, ética, segurança). Boa aula para trazer a leitura de *1984* como fio condutor.
+:::
+
+---
+
+## Tecnologia como instrumento de poder
+
+> Ao longo da história, quem controla a informação e a comunicação tem vantagem no exercício do poder político — hoje, essa disputa passa por **redes, dados e algoritmos**.
+
+- Governos usam tecnologia para administrar, mas também para vigiar e controlar
+- Empresas privadas acumulam dados que também podem ser usados por governos (via cooperação ou obrigação legal)
+
+## O que é vigilância em massa?
+
+::: {.incremental}
+- Monitoramento sistemático de comunicações, localização e comportamento de **grandes populações**, não só de suspeitos individuais
+- Habilitada por redes de dados, câmeras conectadas, reconhecimento facial e análise de big data
+- Exemplo histórico real: revelações de Edward Snowden (2013) sobre vigilância em massa de agências de inteligência
+:::
+
+## Big data e controle social {background-color="#eaf5ec"}
+
+::: {.incremental}
+- **Big data**: conjuntos massivos de dados, analisados por algoritmos para identificar padrões de comportamento
+- Pode ser usado para prever epidemias, otimizar transporte público — usos claramente benéficos
+- Também pode ser usado para **prever e reprimir dissidência política**, perfilar cidadãos, ou manipular eleições
+:::
+
+## *1984*, de George Orwell
+
+::: {.callout-note}
+Escrito em 1949, o romance imagina uma sociedade vigiada 24h pela "teletela" e pelo Grande Irmão (Big Brother) — uma metáfora que se tornou referência universal para discutir vigilância estatal.
+
+**Pergunta que o livro provoca:** a vigilância tecnológica de hoje já se aproxima dessa distopia, ou ainda é bem diferente? Em que sentido?
+:::
+
+## Discussão
+
+**Vigilância digital em nome da segurança pública: até onde é aceitável, e onde começa o abuso de poder?**
+
+::: {.fragment}
+Pensem em exemplos reais: câmeras de reconhecimento facial em cidades, monitoramento de redes sociais por governos, coleta de dados por aplicativos públicos.
+:::
+
+---
+
+## Atividade da aula
+
+::: {.callout-lab}
+**Em grupos (12 min):**
+
+1. Pesquisem (ou relembrem) 1 caso real de uso de vigilância digital por um governo ou empresa
+2. Identifiquem: qual foi a justificativa oficial e qual foi a crítica/controvérsia
+3. O grupo concluiu que esse uso foi proporcional, ou passou dos limites? Por quê?
+:::
+
+## Síntese da aula
+
+- Tecnologia é hoje instrumento central de poder político, para o bem e para o abuso
+- Vigilância em massa é habilitada por redes, dados e algoritmos de reconhecimento
+- Big data pode beneficiar a sociedade ou ser usado para controle e repressão
+- *1984* segue como referência simbólica para pensar os limites da vigilância
+
+## Próxima aula
+
+**Democracia, cidadania e participação digital**
+
+---
+
+## Referências
+
+- ORWELL, George. *1984* (adap. em quadrinhos). São Paulo: Quadrinhos na Cia, 2020.
+- GIDDENS, Anthony; SUTTON, Philip W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.

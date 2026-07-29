@@ -1,0 +1,96 @@
+---
+title: "Aula 04 — Indústria 4.0"
+---
+
+## Objetivos da aula
+
+- Entender o conceito de **Indústria 4.0** e sua relação com redes de computadores
+- Situar a Indústria 4.0 na linha histórica das revoluções industriais
+- Discutir impactos sociais: automação, emprego e requalificação profissional
+- Relacionar Indústria 4.0 com a atuação de um técnico em Redes
+
+::: {.notes}
+Aula com forte conexão à área técnica do curso — bom momento para trazer exemplos concretos de redes industriais, IoT, sensores.
+:::
+
+---
+
+## As quatro revoluções industriais
+
+::: {.incremental}
+- **1ª (séc. XVIII)** — máquina a vapor, mecanização
+- **2ª (séc. XIX/XX)** — eletricidade, produção em massa, linha de montagem
+- **3ª (séc. XX)** — eletrônica, automação, computadores nas fábricas
+- **4ª (Indústria 4.0, hoje)** — internet das coisas, big data, inteligência artificial, sistemas ciberfísicos conectados em **rede**
+:::
+
+## O que é Indústria 4.0?
+
+> Integração de máquinas, sensores e sistemas de informação em **rede**, permitindo que fábricas e processos produtivos tomem decisões automatizadas e em tempo real.
+
+- Sensores (IoT) coletam dados da produção o tempo todo
+- Redes de computadores conectam máquina, sistema de gestão e nuvem
+- Algoritmos analisam dados e ajustam a produção automaticamente
+
+## Onde entra o técnico em Redes? {background-color="#eaf5ec"}
+
+::: {.incremental}
+- Projetar e manter a **infraestrutura de rede** que conecta sensores, máquinas e sistemas
+- Garantir **segurança** de redes industriais (um ataque pode parar uma fábrica inteira)
+- Entender que essa rede **não é só técnica** — impacta empregos, rotinas e cidades inteiras
+:::
+
+---
+
+## Impactos sociais: o que muda no trabalho?
+
+::: {.incremental}
+- **Automação de tarefas repetitivas** — reduz a necessidade de mão de obra em certas funções
+- **Surgimento de novas funções** — analista de dados industriais, especialista em segurança de sistemas ciberfísicos
+- **Exigência de requalificação** — quem não se atualiza corre risco de ficar para trás
+:::
+
+## O debate sobre emprego
+
+::: {.callout-note}
+**Visão pessimista:** automação destrói empregos em massa, aumentando desemprego estrutural.
+
+**Visão otimista:** automação destrói *tarefas*, não necessariamente empregos — cria novas funções, desde que haja requalificação.
+:::
+
+## Discussão
+
+**A automação da Indústria 4.0 é mais ameaça ou mais oportunidade para quem está se formando em Redes agora?**
+
+::: {.fragment}
+Considerem: quais habilidades humanas (crítica, comunicação, resolução de problemas complexos) continuam difíceis de automatizar?
+:::
+
+---
+
+## Atividade da aula
+
+::: {.callout-lab}
+**Em grupos (12 min):**
+
+1. Escolham um setor (agricultura, saúde, logística, manufatura)
+2. Descrevam como a Indústria 4.0 pode transformar esse setor (sensores, redes, automação)
+3. Apontem 1 profissão que pode desaparecer e 1 profissão nova que pode surgir nesse setor
+:::
+
+## Síntese da aula
+
+- Indústria 4.0 é a 4ª revolução industrial: máquinas e sistemas conectados em rede, com dados e IA
+- Técnicos em Redes são peça-chave dessa infraestrutura
+- Automação muda o mercado de trabalho: destrói algumas tarefas, cria outras funções
+- Requalificação profissional é cada vez mais necessária
+
+## Próxima aula
+
+**Tecnologia, educação e qualificação humana** — como essas mudanças afetam a forma como aprendemos e nos formamos
+
+---
+
+## Referências
+
+- GIDDENS, Anthony; SUTTON, Philip W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.

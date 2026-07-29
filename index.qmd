@@ -1,0 +1,26 @@
+---
+title: "Informática e Sociedade"
+format:
+  html:
+    toc: false
+---
+
+Técnico em Redes de Computadores Integrado ao Ensino Médio · IFSP Boituva
+
+## Aulas
+
+1. [Tecnologia e Sociologia: por que estudar isso em Redes?](aulas/01-tecnologia-e-sociologia.html)
+2. [Pesquisa Social, Inovação e Tecnologia](aulas/02-pesquisa-social-inovacao-tecnologia.html)
+3. [Sociedade da Informação](aulas/03-sociedade-da-informacao.html)
+4. [Indústria 4.0](aulas/04-industria-4-0.html)
+5. [Tecnologia, Educação e Qualificação Humana](aulas/05-tecnologia-educacao-qualificacao.html)
+6. [A Sociedade em Rede](aulas/06-sociedade-em-rede.html)
+7. [Transformações no Mundo do Trabalho I: Uberização e Plataformização](aulas/07-uberizacao-plataformizacao.html)
+8. [Transformações no Mundo do Trabalho II: Precarização e Gestão Algorítmica](aulas/08-precarizacao-gestao-algoritmica.html)
+9. [Tecnologia e Cultura](aulas/09-tecnologia-e-cultura.html)
+10. [Tecnologia e Diversidade](aulas/10-tecnologia-e-diversidade.html)
+11. [Tecnologia, Política e Poder](aulas/11-tecnologia-politica-poder.html)
+12. [Democracia, Cidadania e Participação Digital](aulas/12-democracia-cidadania-digital.html)
+13. [Direitos Humanos e Relações Étnico-Raciais no Mundo Digital](aulas/13-direitos-humanos-relacoes-etnico-raciais.html)
+14. [Ética e Segurança no Mundo Digital](aulas/14-etica-seguranca-digital.html)
+15. [Síntese Geral e Debate Final](aulas/15-sintese-debate-final.html)

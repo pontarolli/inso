@@ -1,0 +1,82 @@
+---
+title: "Aula 12 — Democracia, Cidadania e Participação Digital"
+---
+
+## Objetivos da aula
+
+- Entender formas de **participação política mediada por tecnologia**
+- Discutir o papel das redes sociais na formação da opinião pública
+- Analisar o fenômeno da **desinformação (fake news)** e seu impacto na democracia
+- Refletir sobre cidadania digital: direitos e deveres no ambiente online
+
+::: {.notes}
+Continuação natural da Aula 11 (poder e vigilância) — aqui o foco muda para a dimensão democrática/participativa.
+:::
+
+---
+
+## Participação política na era digital
+
+::: {.incremental}
+- Petições online, mobilizações via redes sociais, transparência de dados públicos (portais de dados abertos)
+- Redes sociais permitem que cidadãos comuns tenham alcance antes reservado à mídia tradicional
+- Governos usam plataformas digitais para prestação de contas e serviços (governo eletrônico)
+:::
+
+## O outro lado: desinformação e manipulação
+
+> **Fake news** não é só "notícia falsa" isolada — é um fenômeno de **desinformação em escala**, muitas vezes coordenado, que se aproveita de algoritmos de redes sociais para se espalhar rapidamente.
+
+- Bots e perfis falsos podem simular apoio popular a uma ideia ou candidato
+- Segmentação de anúncios políticos permite mensagens diferentes para grupos diferentes — dificultando o debate público comum
+
+## Como algoritmos afetam eleições {background-color="#fff8e1"}
+
+::: {.incremental}
+- Conteúdo mais **engajador** (emocional, polarizador) tende a ser mais promovido pelos algoritmos
+- Isso pode favorecer discursos extremos em detrimento de debates equilibrados
+- Casos reais de investigação sobre uso indevido de dados pessoais em campanhas eleitorais (ex.: Cambridge Analytica, 2018)
+:::
+
+## Cidadania digital
+
+::: {.callout-note}
+Ser um cidadão digital envolve **direitos** (acesso, privacidade, liberdade de expressão) e **deveres** (checar fontes antes de compartilhar, respeitar a dignidade alheia online, não disseminar desinformação).
+:::
+
+## Discussão
+
+**As redes sociais fortalecem ou enfraquecem a democracia?**
+
+::: {.fragment}
+Considerem os dois lados: ampliação de vozes e participação x manipulação, polarização e desinformação.
+:::
+
+---
+
+## Atividade da aula
+
+::: {.callout-lab}
+**Em grupos (12 min):**
+
+1. Escolham uma notícia ou boato que viralizou nas redes recentemente
+2. Apliquem 3 critérios simples de checagem: quem publicou? há fonte confiável? há consenso com outras fontes independentes?
+3. O grupo concluiu que a informação era verdadeira, falsa ou parcialmente distorcida?
+:::
+
+## Síntese da aula
+
+- Tecnologia amplia formas de participação política, mas também abre espaço para manipulação
+- Desinformação em escala é hoje um risco real para processos democráticos
+- Algoritmos tendem a favorecer conteúdo engajador, nem sempre o mais equilibrado
+- Cidadania digital exige direitos garantidos e responsabilidade individual no uso das redes
+
+## Próxima aula
+
+**Direitos humanos e relações étnico-raciais no mundo digital**
+
+---
+
+## Referências
+
+- GIDDENS, Anthony; SUTTON, Philip W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.

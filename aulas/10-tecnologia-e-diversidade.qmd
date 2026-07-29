@@ -1,0 +1,87 @@
+---
+title: "Aula 10 — Tecnologia e Diversidade"
+---
+
+## Objetivos da aula
+
+- Entender os conceitos de **inclusão digital** e **exclusão digital**
+- Discutir acessibilidade tecnológica para pessoas com deficiência
+- Analisar como a tecnologia pode ampliar ou reduzir desigualdades sociais
+- Relacionar diversidade e tecnologia com a atuação profissional em Redes
+
+::: {.notes}
+Continuação do bloco "Tecnologia, cultura e diversidade" do PPC. Trazer o conceito de "brecha/exclusão digital" (digital divide) de forma concreta.
+:::
+
+---
+
+## O que é exclusão digital?
+
+> Desigualdade de acesso a tecnologias digitais (internet, dispositivos, conhecimento de uso) que impede parte da população de participar plenamente da vida social, educacional e econômica mediada por tecnologia.
+
+- Não é só "ter ou não ter" internet — envolve qualidade de conexão, dispositivo adequado e habilidade de uso
+- Afeta de forma desigual regiões, classes sociais, idades e grupos étnico-raciais
+
+## Camadas da exclusão digital
+
+::: {.incremental}
+- **Acesso** — ter ou não ter internet e dispositivo
+- **Uso** — saber ou não saber usar a tecnologia de forma eficiente
+- **Qualidade** — internet lenta ou instável, dispositivo antigo, limite de dados
+- **Apropriação** — usar a tecnologia apenas para consumo, ou também para produção e oportunidades (trabalho, estudo, empreendedorismo)
+:::
+
+## Exclusão digital no Brasil {background-color="#eaf5ec"}
+
+::: {.incremental}
+- Diferenças significativas de acesso entre zonas urbanas e rurais
+- Diferenças entre regiões do país e entre classes sociais
+- A pandemia de Covid-19 escancarou essa desigualdade no ensino remoto
+- Rede de infraestrutura (a área técnica do curso!) é parte da solução — expandir cobertura de qualidade
+:::
+
+## Acessibilidade tecnológica
+
+::: {.callout-note}
+**Acessibilidade** é projetar tecnologia para que pessoas com deficiência (visual, auditiva, motora, cognitiva) possam usá-la com autonomia — leitores de tela, legendas, navegação por voz, contraste adequado, entre outros recursos.
+:::
+
+- Acessibilidade não é "extra" — é parte do projeto de qualquer sistema bem feito
+- Redes e infraestrutura também precisam considerar acessibilidade (ex.: qualidade de conexão para videochamadas com intérprete de Libras)
+
+## Discussão
+
+**A tecnologia, por padrão, inclui ou exclui? O que muda essa resposta?**
+
+::: {.fragment}
+Pensem: quem participa do time que projeta a tecnologia influencia quem ela vai incluir ou esquecer.
+:::
+
+---
+
+## Atividade da aula
+
+::: {.callout-lab}
+**Em grupos (12 min):**
+
+1. Escolham um grupo (pessoas idosas, pessoas com deficiência visual, comunidades rurais, população de baixa renda)
+2. Identifiquem 1 barreira tecnológica real que esse grupo enfrenta
+3. Proponham 1 solução técnica ou de infraestrutura de rede que reduziria essa barreira
+:::
+
+## Síntese da aula
+
+- Exclusão digital vai além do acesso: envolve uso, qualidade e apropriação da tecnologia
+- No Brasil, a exclusão digital tem forte recorte regional e social
+- Acessibilidade tecnológica deve ser parte do projeto, não um adicional
+- Profissionais de Redes têm papel direto na redução (ou manutenção) dessas desigualdades
+
+## Próxima aula
+
+**Tecnologia, política e poder** — vigilância, big data e o controle da informação
+
+---
+
+## Referências
+
+- GIDDENS, Anthony; SUTTON, Philip W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.

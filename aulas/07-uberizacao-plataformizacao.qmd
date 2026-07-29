@@ -1,0 +1,94 @@
+---
+title: "Aula 07 — Transformações no Mundo do Trabalho I: Uberização e Plataformização"
+---
+
+## Objetivos da aula
+
+- Entender os conceitos de **uberização** e **plataformização do trabalho**
+- Analisar como plataformas digitais reorganizam relações de trabalho
+- Discutir vantagens e problemas desse modelo para trabalhadores
+- Relacionar esses fenômenos com a infraestrutura de redes que os sustenta
+
+::: {.notes}
+Início do bloco "Transformações no mundo do trabalho" do PPC. Muitos alunos provavelmente conhecem de perto (entregadores de app, motoristas de aplicativo na família).
+:::
+
+---
+
+## O que é plataformização do trabalho?
+
+> Processo pelo qual empresas passam a organizar o trabalho por meio de **plataformas digitais** (aplicativos) que conectam quem oferece um serviço a quem quer consumi-lo, sem vínculo empregatício tradicional.
+
+- Exemplos: aplicativos de transporte, entrega, serviços domésticos, freelance
+- A plataforma controla preço, avaliação e acesso ao trabalho — mas não se declara "empregadora"
+
+## O termo "uberização"
+
+::: {.incremental}
+- Vem do nome da empresa Uber, pioneira nesse modelo de transporte
+- Passou a designar um fenômeno mais amplo: **terceirização extrema do trabalho via aplicativo**
+- Características comuns: trabalhador é tratado como "parceiro" ou "autônomo", não como empregado
+:::
+
+## Por trás do aplicativo: a infraestrutura de redes {background-color="#eaf5ec"}
+
+::: {.incremental}
+- Geolocalização em tempo real (GPS + rede de dados móveis)
+- Servidores em nuvem processando milhões de solicitações simultâneas
+- Algoritmos de precificação dinâmica e distribuição de corridas/entregas
+- Nada disso funciona sem uma **infraestrutura de redes robusta** — aqui entra a área técnica do curso
+:::
+
+## Vantagens do modelo de plataforma
+
+::: {.incremental}
+- **Flexibilidade de horário** — a pessoa escolhe quando trabalhar
+- **Baixa barreira de entrada** — não exige processo seletivo tradicional
+- **Renda extra** para quem já tem outra ocupação
+:::
+
+## Problemas do modelo de plataforma
+
+::: {.callout-note}
+- Ausência de **vínculo empregatício**: sem carteira assinada, férias, 13º, FGTS
+- Risco transferido ao trabalhador: **veículo, combustível, manutenção, acidentes**
+- Renda **instável**, dependente de algoritmos que o trabalhador não controla
+- Jornadas exaustivas para compensar a baixa remuneração por corrida/entrega
+:::
+
+## Discussão
+
+**A plataformização é, na balança, mais liberdade ou mais precarização para o trabalhador?**
+
+::: {.fragment}
+Considerem diferentes perspectivas: quem já tem outra renda fixa x quem depende só do aplicativo para sobreviver.
+:::
+
+---
+
+## Atividade da aula
+
+::: {.callout-lab}
+**Em grupos (12 min):**
+
+1. Escolham um aplicativo de trabalho por plataforma (transporte, entrega, serviços)
+2. Listem 2 vantagens e 2 problemas reais desse modelo para quem trabalha nele
+3. Proponham 1 mudança (legal, tecnológica ou empresarial) que reduziria o problema mais grave que vocês identificaram
+:::
+
+## Síntese da aula
+
+- Plataformização reorganiza o trabalho por meio de aplicativos, sem vínculo empregatício tradicional
+- Uberização é o termo popular para esse fenômeno, iniciado no transporte
+- A infraestrutura de redes é o que torna esse modelo tecnicamente possível
+- O modelo traz flexibilidade, mas também precarização e transferência de riscos ao trabalhador
+
+## Próxima aula
+
+**Transformações no mundo do trabalho II** — precarização e novas formas de gestão e controle do trabalho
+
+---
+
+## Referências
+
+- DIAS, Reinaldo. *Sociologia e ética profissional*. São Paulo: Pearson Education do Brasil, 2014.

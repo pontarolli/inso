@@ -1,0 +1,90 @@
+---
+title: "Aula 09 — Tecnologia e Cultura"
+---
+
+## Objetivos da aula
+
+- Entender como a tecnologia molda a **produção e o consumo cultural**
+- Discutir identidade e expressão cultural em ambientes digitais
+- Analisar o papel de algoritmos na formação de gosto e tendências
+- Refletir sobre cultura digital brasileira (memes, criadores de conteúdo, streaming)
+
+::: {.notes}
+Início do bloco "Tecnologia, cultura e diversidade" do PPC. Aula tende a engajar bastante — trazer exemplos de cultura pop atual.
+:::
+
+---
+
+## Cultura antes e depois da tecnologia digital
+
+::: {.incremental}
+- **Antes:** cultura mediada por poucos canais — rádio, TV, cinema, jornal, com produção concentrada em poucas empresas
+- **Depois:** qualquer pessoa com celular pode **produzir e distribuir** conteúdo cultural globalmente
+- Streaming, redes sociais e plataformas de vídeo mudam radicalmente como consumimos música, cinema, notícia e arte
+:::
+
+## A cultura como produto de plataforma
+
+> Plataformas como YouTube, TikTok, Spotify e Instagram não são apenas "vitrines" — elas **moldam** o tipo de conteúdo cultural que é produzido, por meio de algoritmos de recomendação.
+
+- Formatos curtos (Reels, Shorts, TikTok) incentivam certo tipo de linguagem e ritmo
+- Criadores de conteúdo ajustam sua arte às métricas do algoritmo (visualizações, tempo assistido)
+
+## Identidade e expressão cultural online {background-color="#eaf5ec"}
+
+::: {.incremental}
+- Redes sociais permitem que grupos culturais antes marginalizados ganhem **visibilidade e voz própria**
+- Comunidades de nicho (fandoms, cenas musicais, subculturas) florescem online, sem depender de mídia tradicional
+- Ao mesmo tempo, há pressão por **padronização** — tendências globais homogeneizando expressões locais
+:::
+
+## Memes como fenômeno cultural
+
+::: {.callout-note}
+Memes são uma forma de **produção cultural coletiva e instantânea**, típica da era digital — comentam política, comportamento e atualidade em tempo real, com humor e crítica social.
+:::
+
+## Discussão
+
+**A internet democratiza a cultura (todo mundo pode criar e ser visto) ou concentra ainda mais (poucos algoritmos decidem o que "viraliza")?**
+
+::: {.fragment}
+Considerem: quem realmente decide o que aparece no seu feed — você, ou o algoritmo?
+:::
+
+---
+
+## Cultura brasileira na era das plataformas
+
+::: {.incremental}
+- Funk, forró eletrônico, sertanejo e outros gêneros ganharam alcance nacional/global via streaming
+- Criadores de conteúdo brasileiros competem e colaboram em escala internacional
+- Debates culturais (moda, humor, política) circulam e se transformam em alta velocidade nas redes
+:::
+
+## Atividade da aula
+
+::: {.callout-lab}
+**Em grupos (12 min):**
+
+1. Escolham um fenômeno cultural recente que "viralizou" (meme, música, dança, criador de conteúdo)
+2. Discutam: como a tecnologia (plataforma, algoritmo, formato) ajudou esse fenômeno a se espalhar?
+3. Esse fenômeno representa mais diversidade cultural ou mais padronização? Justifiquem
+:::
+
+## Síntese da aula
+
+- Tecnologia digital transformou quem produz e como circula a cultura
+- Algoritmos de plataformas moldam formatos, ritmo e alcance da produção cultural
+- Internet pode ampliar vozes marginalizadas, mas também pressiona por padronização
+- Cultura digital brasileira é um exemplo vivo dessas tensões
+
+## Próxima aula
+
+**Tecnologia e diversidade** — inclusão e exclusão digital
+
+---
+
+## Referências
+
+- LEMOS, Ronaldo; FELICE, Massimo Di. *A vida em rede*. Campinas: Papirus 7 Mares, 2019.

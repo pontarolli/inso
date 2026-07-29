@@ -1,0 +1,93 @@
+---
+title: "Aula 08 — Transformações no Mundo do Trabalho II: Precarização e Gestão Algorítmica"
+---
+
+## Objetivos da aula
+
+- Aprofundar o conceito de **precarização do trabalho**
+- Entender o que é **gestão e controle algorítmico** do trabalho
+- Discutir vigilância laboral por meio de tecnologia
+- Avaliar criticamente o papel do profissional de TI na construção desses sistemas
+
+::: {.notes}
+Continuação direta da aula anterior. Aprofunda o "lado do controle" que a Aula 07 deixou como gancho.
+:::
+
+---
+
+## O que é precarização do trabalho?
+
+> Processo de **piora das condições de trabalho**: menos direitos, menos estabilidade, menos proteção social — mesmo quando a pessoa está formalmente "trabalhando".
+
+- Não é apenas desemprego — é trabalho em condições cada vez piores
+- Plataformização (Aula 07) é uma das formas mais visíveis de precarização hoje
+
+## Gestão algorítmica: o "chefe" é um sistema
+
+::: {.incremental}
+- Algoritmos decidem quem recebe qual tarefa, quanto será pago, e podem até **desligar** um trabalhador automaticamente
+- Não há um gestor humano para conversar, negociar ou justificar decisões
+- Avaliações de clientes viram **critério automático** de permanência na plataforma
+:::
+
+## Vigilância no trabalho por meio da tecnologia {background-color="#fff8e1"}
+
+::: {.incremental}
+- Monitoramento de localização em tempo real (entregadores, motoristas)
+- Softwares que registram cliques, tempo de tela e produtividade em home office
+- Câmeras e sensores em ambientes de trabalho físico
+- A linha entre "gestão" e "vigilância excessiva" é tema de debate constante
+:::
+
+## O papel de quem constrói esses sistemas
+
+::: {.callout-note}
+Sistemas de gestão algorítmica são **projetados por equipes de tecnologia** — incluindo profissionais de redes e infraestrutura.
+
+Decisões técnicas (quais dados coletar, com que frequência, para quais fins) têm consequência direta na vida de trabalhadores reais.
+:::
+
+## Discussão
+
+**Se você fosse contratado para construir a rede que sustenta um sistema de gestão algorítmica, até onde iria seu senso de responsabilidade sobre como esses dados são usados?**
+
+::: {.fragment}
+Não existe resposta única — o objetivo é vocês argumentarem com base no que foi discutido até aqui.
+:::
+
+---
+
+## Formas de resistência e regulação
+
+::: {.incremental}
+- **Organização coletiva** de trabalhadores de plataforma (sindicatos, associações, greves de entregadores)
+- **Legislação trabalhista** tentando se adaptar a esses novos formatos de trabalho
+- **Transparência algorítmica** — direito de saber como o algoritmo decide sobre o próprio trabalho
+:::
+
+## Atividade da aula
+
+::: {.callout-lab}
+**Em grupos (12 min):**
+
+1. Pesquisem (ou relembrem) 1 exemplo real de greve ou mobilização de trabalhadores de aplicativo no Brasil
+2. Identifiquem qual foi a principal reivindicação
+3. Discutam: a tecnologia usada pela plataforma poderia ser adaptada para atender a essa reivindicação? Como?
+:::
+
+## Síntese da aula
+
+- Precarização é a piora das condições de trabalho, mesmo com a pessoa formalmente ocupada
+- Gestão algorítmica substitui parte do papel do gestor humano por decisões automatizadas
+- Vigilância tecnológica no trabalho levanta questões éticas sobre limites do monitoramento
+- Profissionais de TI têm responsabilidade nas escolhas técnicas desses sistemas
+
+## Próxima aula
+
+**Tecnologia e cultura** — como a tecnologia molda identidade, consumo cultural e produção artística
+
+---
+
+## Referências
+
+- DIAS, Reinaldo. *Sociologia e ética profissional*. São Paulo: Pearson Education do Brasil, 2014.

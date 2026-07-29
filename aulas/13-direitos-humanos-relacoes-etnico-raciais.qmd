@@ -1,0 +1,84 @@
+---
+title: "Aula 13 — Direitos Humanos e Relações Étnico-Raciais no Mundo Digital"
+---
+
+## Objetivos da aula
+
+- Discutir direitos humanos aplicados ao ambiente digital
+- Entender o conceito de **racismo algorítmico**
+- Analisar representatividade étnico-racial na tecnologia e nas mídias digitais
+- Promover um debate respeitoso sobre discriminação e inclusão no mundo digital
+
+::: {.notes}
+Aula sensível — reservar tempo real para escuta e debate, não só exposição. Conectar com os objetivos do PPC sobre educação em direitos humanos e relações étnico-raciais.
+:::
+
+---
+
+## Direitos humanos no ambiente digital
+
+> Os direitos humanos (dignidade, igualdade, liberdade, privacidade) não terminam onde começa a internet — eles se aplicam também ao ambiente digital.
+
+- Direito à privacidade e proteção de dados
+- Direito à não discriminação, também em sistemas automatizados
+- Direito de acesso à informação e à tecnologia (ligado à Aula 10, sobre exclusão digital)
+
+## O que é racismo algorítmico?
+
+::: {.incremental}
+- Fenômeno em que **sistemas automatizados** (reconhecimento facial, IA, algoritmos de recomendação) reproduzem ou amplificam **discriminação racial**
+- Causas comuns: bases de dados de treinamento pouco diversas, equipes de desenvolvimento pouco diversas, ausência de testes com grupos variados
+- Exemplo documentado: sistemas de reconhecimento facial com taxas de erro muito mais altas para pessoas negras, especialmente mulheres negras
+:::
+
+## Consequências reais do racismo algorítmico {background-color="#eaf5ec"}
+
+::: {.incremental}
+- Prisões injustas baseadas em reconhecimento facial equivocado
+- Sistemas de crédito ou contratação que penalizam indiretamente grupos raciais
+- Sub-representação de determinados grupos em resultados de busca e recomendações
+:::
+
+## Representatividade na tecnologia
+
+::: {.callout-note}
+Equipes de tecnologia mais diversas tendem a identificar mais cedo problemas de viés e exclusão em seus produtos — diversidade não é só uma pauta social, é também uma prática de **qualidade técnica**.
+:::
+
+## Discussão
+
+**Se um sistema automatizado discrimina sem que ninguém tenha "programado" isso de propósito, quem é responsável?**
+
+::: {.fragment}
+Pensem em: quem coletou os dados, quem programou o modelo, quem decidiu implantar o sistema sem testar seus vieses.
+:::
+
+---
+
+## Atividade da aula
+
+::: {.callout-lab}
+**Em grupos (12 min), com respeito e escuta:**
+
+1. Pesquisem (ou relembrem) 1 caso real de racismo algorítmico ou discriminação em sistema automatizado
+2. Identifiquem em que etapa do desenvolvimento o viés provavelmente entrou (dados, equipe, teste, uso)
+3. Proponham 1 prática técnica que ajudaria a evitar esse tipo de problema
+:::
+
+## Síntese da aula
+
+- Direitos humanos se aplicam integralmente ao ambiente digital
+- Racismo algorítmico é um problema real e documentado em sistemas automatizados
+- A falta de diversidade nas equipes de tecnologia contribui para vieses não detectados
+- Profissionais de TI têm papel ativo na prevenção desses problemas
+
+## Próxima aula
+
+**Ética e segurança no mundo digital**
+
+---
+
+## Referências
+
+- CHICARINO, Tathiana Senne. *Educação das relações étnico-raciais*. Pearson, 2016.
+- CHICARINO, Tathiana Senne. *Educação em direitos humanos*. Pearson, 2016.

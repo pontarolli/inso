@@ -1,0 +1,95 @@
+---
+title: "Aula 05 — Tecnologia, Educação e Qualificação Humana"
+---
+
+## Objetivos da aula
+
+- Entender como as novas tecnologias transformam **processos educativos**
+- Discutir o conceito de **qualificação/requalificação profissional contínua**
+- Analisar vantagens e riscos do ensino mediado por tecnologia
+- Refletir sobre o próprio papel como estudante de um curso técnico integrado
+
+::: {.notes}
+Boa aula para trazer a experiência dos próprios alunos: EAD, videoaulas, uso de IA para estudar. Deixar espaço para relatos pessoais.
+:::
+
+---
+
+## Tecnologia mudando a educação
+
+::: {.incremental}
+- **Ensino a distância (EAD)** — democratiza acesso, mas exige mais autonomia do estudante
+- **Plataformas adaptativas** — ajustam o conteúdo ao ritmo de cada aluno
+- **Inteligência artificial generativa** — ferramenta de apoio ao estudo, mas também risco de plágio e dependência
+- **Gamificação** — usa mecânicas de jogos para engajar o aprendizado
+:::
+
+## O conceito de qualificação contínua
+
+> Ideia de que, no mundo do trabalho atual, **aprender não termina na formatura** — é preciso se atualizar continuamente ao longo da vida profissional (*lifelong learning*).
+
+- Tecnologias mudam rápido demais para um diploma "durar" a vida inteira
+- Cursos técnicos, certificações e cursos livres tornam-se parte da rotina de qualquer profissional de TI
+
+## Vantagens e riscos do ensino mediado por tecnologia {background-color="#eaf5ec"}
+
+| Vantagens | Riscos |
+|---|---|
+| Acesso mais amplo e flexível | Exclusão digital de quem não tem acesso |
+| Personalização do ritmo de estudo | Perda de vínculo social e presencial |
+| Ferramentas de apoio (IA, simuladores) | Dependência excessiva, uso acrítico da IA |
+| Atualização constante de conteúdo | Distração, dificuldade de concentração |
+
+---
+
+## IA generativa e aprendizagem
+
+::: {.callout-note}
+Usar IA para **estudar melhor** (tirar dúvidas, gerar exemplos, revisar conteúdo) é diferente de usar IA para **substituir o próprio aprendizado** (copiar respostas prontas sem entender).
+:::
+
+## Discussão
+
+**Como vocês usam tecnologia para estudar hoje? Isso ajuda ou atrapalha o aprendizado de verdade?**
+
+::: {.fragment}
+Pensem em exemplos concretos: vídeos, resumos por IA, grupos de WhatsApp de estudo, aplicativos de flashcards.
+:::
+
+---
+
+## Exclusão digital na educação
+
+::: {.incremental}
+- Nem todo estudante tem **internet estável, computador próprio ou espaço silencioso** para estudar
+- A tecnologia educacional pode **ampliar oportunidades** ou **aprofundar desigualdades**, dependendo de como é implementada
+- Políticas públicas de inclusão digital são tão importantes quanto a tecnologia em si
+:::
+
+## Atividade da aula
+
+::: {.callout-lab}
+**Em grupos (12 min):**
+
+1. Listem 2 tecnologias educacionais que ajudaram vocês a aprender melhor
+2. Listem 2 riscos ou dificuldades que essas mesmas tecnologias trazem
+3. Proponham 1 forma de reduzir a exclusão digital no acesso à educação
+:::
+
+## Síntese da aula
+
+- Tecnologia transforma processos educativos: EAD, IA, plataformas adaptativas
+- Qualificação profissional passa a ser um processo contínuo, não pontual
+- Toda tecnologia educacional traz vantagens e riscos simultaneamente
+- Exclusão digital é um risco real que a tecnologia pode agravar ou combater
+
+## Próxima aula
+
+**A sociedade em rede** — como a socialização muda na era digital
+
+---
+
+## Referências
+
+- GIDDENS, Anthony; SUTTON, Philip W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.
+- HARARI, Yuval Noah. *Sapiens: O nascimento da humanidade* (adap. em quadrinhos). São Paulo: Quadrinhos na Cia, 2020.

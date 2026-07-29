@@ -1,0 +1,85 @@
+---
+title: "Aula 14 — Ética e Segurança no Mundo Digital"
+---
+
+## Objetivos da aula
+
+- Discutir princípios de **ética profissional** aplicados à área de tecnologia
+- Entender fundamentos de **privacidade e proteção de dados** (LGPD)
+- Diferenciar hacking ético de crime digital
+- Refletir sobre responsabilidade profissional de quem trabalha com redes
+
+::: {.notes}
+Penúltima aula do curso — boa oportunidade para amarrar ética com tudo o que já foi discutido nas aulas anteriores (vigilância, racismo algorítmico, gestão algorítmica).
+:::
+
+---
+
+## Ética profissional: por que importa em TI?
+
+> Ética profissional trata das **responsabilidades e limites** de conduta de quem exerce uma profissão — em TI, isso envolve decisões sobre dados, segurança e impacto social das soluções que se constrói.
+
+- Um profissional de Redes lida com informações sensíveis de pessoas e organizações
+- Decisões técnicas (configurar um firewall, expor uma porta, coletar um log) têm consequências éticas reais
+
+## Privacidade e proteção de dados
+
+::: {.incremental}
+- **LGPD (Lei Geral de Proteção de Dados)** — legislação brasileira que regula coleta, uso e armazenamento de dados pessoais
+- Princípios centrais: finalidade clara, consentimento, minimização de dados coletados, segurança da informação
+- Vazamentos de dados (data breaches) podem expor informações sensíveis de milhões de pessoas
+:::
+
+## Hacking ético x crime digital {background-color="#eaf5ec"}
+
+| Hacking ético (pentest) | Crime digital |
+|---|---|
+| Autorizado pelo dono do sistema | Sem autorização |
+| Objetivo: encontrar e reportar falhas | Objetivo: explorar falhas para prejudicar/lucrar |
+| Segue contrato e escopo definido | Sem limites ou regras |
+| Reconhecido como profissão legítima | Crime previsto em lei |
+
+## Dilemas éticos comuns em TI
+
+::: {.callout-note}
+- Encontrei uma falha de segurança grave em um sistema que uso — o que faço?
+- Fui pedido para configurar um monitoramento que parece invasivo demais — devo questionar?
+- Vi dados pessoais sendo tratados sem cuidado no meu ambiente de trabalho — a quem reporto?
+:::
+
+## Discussão
+
+**Ética em TI é "regra que atrapalha" ou parte essencial de fazer um bom trabalho técnico?**
+
+::: {.fragment}
+Retomem exemplos das aulas anteriores: vigilância excessiva, racismo algorítmico, gestão algorítmica sem transparência — todos são, no fundo, falhas éticas com causa técnica.
+:::
+
+---
+
+## Atividade da aula
+
+::: {.callout-lab}
+**Em grupos (12 min):**
+
+1. Discutam um dos dilemas éticos apresentados (ou tragam um exemplo próprio)
+2. Decidam, como grupo, qual seria a conduta mais ética a seguir
+3. Justifiquem a decisão citando ao menos 1 princípio (privacidade, transparência, consentimento, segurança)
+:::
+
+## Síntese da aula
+
+- Ética profissional em TI envolve responsabilidade sobre dados, segurança e impacto social
+- LGPD estabelece regras legais para proteção de dados pessoais no Brasil
+- Hacking ético é uma prática legítima e autorizada; crime digital não tem autorização nem limites
+- Muitos problemas discutidos no semestre (vigilância, racismo algorítmico) têm raiz em falhas éticas
+
+## Próxima aula
+
+**Síntese geral, debate final e avaliação** — encerramento do componente
+
+---
+
+## Referências
+
+- DIAS, Reinaldo. *Sociologia e ética profissional*. São Paulo: Pearson Education do Brasil, 2014.
