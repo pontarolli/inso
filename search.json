@@ -683,21 +683,49 @@
     "href": "aulas/04-industria-4-0.html#objetivos-da-aula",
     "title": "Aula 04 — Indústria 4.0",
     "section": "Objetivos da aula",
-    "text": "Objetivos da aula\n\nEntender o conceito de Indústria 4.0 e sua relação com redes de computadores\nSituar a Indústria 4.0 na linha histórica das revoluções industriais\nDiscutir impactos sociais: automação, emprego e requalificação profissional\nRelacionar Indústria 4.0 com a atuação de um técnico em Redes\n\n\nAula com forte conexão à área técnica do curso — bom momento para trazer exemplos concretos de redes industriais, IoT, sensores."
+    "text": "Objetivos da aula\n\nPercorrer a linha do tempo das revoluções industriais, de I1 a I5\nEntender o que muda de uma revolução para a outra — e por que a 4ª é diferente\nSituar o técnico em Redes dentro dessa história\nFechar com um gancho para os dias de hoje: a uberização do trabalho\n\n\nAula com forte conexão à área técnica do curso. O fechamento com uberização é só um gancho — o conteúdo completo dela vem na Aula 07. Bom momento para trazer exemplos concretos de redes industriais, IoT, sensores."
   },
   {
-    "objectID": "aulas/04-industria-4-0.html#as-quatro-revoluções-industriais",
-    "href": "aulas/04-industria-4-0.html#as-quatro-revoluções-industriais",
+    "objectID": "aulas/04-industria-4-0.html#o-que-é-uma-revolução-industrial",
+    "href": "aulas/04-industria-4-0.html#o-que-é-uma-revolução-industrial",
     "title": "Aula 04 — Indústria 4.0",
-    "section": "As quatro revoluções industriais",
-    "text": "As quatro revoluções industriais\n\n1ª (séc. XVIII) — máquina a vapor, mecanização\n2ª (séc. XIX/XX) — eletricidade, produção em massa, linha de montagem\n3ª (séc. XX) — eletrônica, automação, computadores nas fábricas\n4ª (Indústria 4.0, hoje) — internet das coisas, big data, inteligência artificial, sistemas ciberfísicos conectados em rede"
+    "section": "O que é uma “revolução industrial”?",
+    "text": "O que é uma “revolução industrial”?\n\nUm salto tecnológico que muda como se produz — e, junto com isso, muda o trabalho, as cidades e a forma como a sociedade se organiza.\n\n\nNão é só “uma máquina nova” — é uma mudança que se espalha por toda a economia\nCada revolução tem uma tecnologia motriz: vapor, eletricidade, eletrônica, rede, IA"
   },
   {
-    "objectID": "aulas/04-industria-4-0.html#o-que-é-indústria-4.0",
-    "href": "aulas/04-industria-4-0.html#o-que-é-indústria-4.0",
+    "objectID": "aulas/04-industria-4-0.html#linha-do-tempo-de-i1-a-i5",
+    "href": "aulas/04-industria-4-0.html#linha-do-tempo-de-i1-a-i5",
     "title": "Aula 04 — Indústria 4.0",
-    "section": "O que é Indústria 4.0?",
-    "text": "O que é Indústria 4.0?\n\nIntegração de máquinas, sensores e sistemas de informação em rede, permitindo que fábricas e processos produtivos tomem decisões automatizadas e em tempo real.\n\n\nSensores (IoT) coletam dados da produção o tempo todo\nRedes de computadores conectam máquina, sistema de gestão e nuvem\nAlgoritmos analisam dados e ajustam a produção automaticamente"
+    "section": "Linha do tempo: de I1 a I5",
+    "text": "Linha do tempo: de I1 a I5\n\n\n\n\n\n\n\nNota\n\n\nPergunta rápida: quantas revoluções industriais a maioria dos autores reconhece hoje?\n\nResposta: quatro consolidadas (1ª a 4ª) — e uma 5ª em debate desde 2021, ainda sendo construída."
+  },
+  {
+    "objectID": "aulas/04-industria-4-0.html#i1-a-revolução-do-vapor",
+    "href": "aulas/04-industria-4-0.html#i1-a-revolução-do-vapor",
+    "title": "Aula 04 — Indústria 4.0",
+    "section": "I1 — A Revolução do Vapor",
+    "text": "I1 — A Revolução do Vapor\n\n\n\n\n\nSéculo XVIII, Inglaterra\nMáquina a vapor substitui a força humana e animal\nTear mecânico, mineração, ferrovias\nÊxodo rural → nascem as cidades industriais\n\n\n\n\n\n\n\n\nNota\n\n\nPergunta: o que caracterizou a 1ª Revolução Industrial?\n\nResposta: a mecanização da produção usando a força motriz do vapor, no lugar do trabalho manual e animal."
+  },
+  {
+    "objectID": "aulas/04-industria-4-0.html#i2-a-revolução-da-eletricidade",
+    "href": "aulas/04-industria-4-0.html#i2-a-revolução-da-eletricidade",
+    "title": "Aula 04 — Indústria 4.0",
+    "section": "I2 — A Revolução da Eletricidade",
+    "text": "I2 — A Revolução da Eletricidade\n\n\n\n\n\nFinal do séc. XIX até início do séc. XX\nEletricidade e motor de combustão\nLinha de montagem e produção em massa (fordismo)\nTarefas padronizadas e cronometradas (taylorismo)\n\n\n\n\n\n\n\n\nNota\n\n\nPergunta: qual inovação de gestão surge com a linha de montagem?\n\nResposta: a produção em série — tarefas repetitivas, padronizadas e cronometradas, divididas entre vários operários."
+  },
+  {
+    "objectID": "aulas/04-industria-4-0.html#i3-a-revolução-da-automação",
+    "href": "aulas/04-industria-4-0.html#i3-a-revolução-da-automação",
+    "title": "Aula 04 — Indústria 4.0",
+    "section": "I3 — A Revolução da Automação",
+    "text": "I3 — A Revolução da Automação\n\n\n\n\n\nDécadas de 1970 a 1990\nEletrônica, computadores e controladores lógicos (CLPs)\nRobôs industriais entram na linha de produção\nA TI passa a fazer parte da fábrica\n\n\n\n\n\n\n\n\nNota\n\n\nPergunta: o que essa revolução tira das mãos do operário?\n\nResposta: tarefas repetitivas e o controle de processo — passam a ser automatizadas por eletrônica e computadores."
+  },
+  {
+    "objectID": "aulas/04-industria-4-0.html#i4-indústria-4.0",
+    "href": "aulas/04-industria-4-0.html#i4-indústria-4.0",
+    "title": "Aula 04 — Indústria 4.0",
+    "section": "I4 — Indústria 4.0",
+    "text": "I4 — Indústria 4.0\n\n\n\n\n\nDa década de 2010 até hoje\nInternet das Coisas (IoT), big data, inteligência artificial\nSistemas ciberfísicos: máquinas, sensores e nuvem em rede\nDecisões automatizadas e em tempo real\n\n\n\n\n\n\n\n\nNota\n\n\nPergunta: a I3 já tinha computador na fábrica — o que a I4.0 tem de diferente?\n\nResposta: a conexão em rede entre máquinas, sensores e sistemas — não é mais automação isolada, é um conjunto de dados trocados e decisões tomadas em tempo real."
   },
   {
     "objectID": "aulas/04-industria-4-0.html#onde-entra-o-técnico-em-redes",
@@ -707,39 +735,53 @@
     "text": "Onde entra o técnico em Redes?\n\nProjetar e manter a infraestrutura de rede que conecta sensores, máquinas e sistemas\nGarantir segurança de redes industriais (um ataque pode parar uma fábrica inteira)\nEntender que essa rede não é só técnica — impacta empregos, rotinas e cidades inteiras"
   },
   {
-    "objectID": "aulas/04-industria-4-0.html#impactos-sociais-o-que-muda-no-trabalho",
-    "href": "aulas/04-industria-4-0.html#impactos-sociais-o-que-muda-no-trabalho",
+    "objectID": "aulas/04-industria-4-0.html#i5-indústria-5.0",
+    "href": "aulas/04-industria-4-0.html#i5-indústria-5.0",
     "title": "Aula 04 — Indústria 4.0",
-    "section": "Impactos sociais: o que muda no trabalho?",
-    "text": "Impactos sociais: o que muda no trabalho?\n\nAutomação de tarefas repetitivas — reduz a necessidade de mão de obra em certas funções\nSurgimento de novas funções — analista de dados industriais, especialista em segurança de sistemas ciberfísicos\nExigência de requalificação — quem não se atualiza corre risco de ficar para trás"
+    "section": "I5 — Indústria 5.0",
+    "text": "I5 — Indústria 5.0\n\n\n\n\n\nConceito lançado pela Comissão Europeia em 2021, ainda em construção\nUsa a mesma base tecnológica da 4.0 (IoT, IA, rede)\nMuda o foco: humano no centro, sustentabilidade, resiliência\nColaboração humano-robô (cobots), não substituição pura\n\n\n\n\n\n\n\n\nNota\n\n\nPergunta: a Indústria 5.0 substitui a 4.0?\n\nResposta: não. Ela usa a mesma tecnologia da 4.0, mas muda a prioridade: de “eficiência e lucro” para “pessoas, sustentabilidade e resiliência”."
   },
   {
-    "objectID": "aulas/04-industria-4-0.html#o-debate-sobre-emprego",
-    "href": "aulas/04-industria-4-0.html#o-debate-sobre-emprego",
+    "objectID": "aulas/04-industria-4-0.html#as-cinco-revoluções-lado-a-lado",
+    "href": "aulas/04-industria-4-0.html#as-cinco-revoluções-lado-a-lado",
     "title": "Aula 04 — Indústria 4.0",
-    "section": "O debate sobre emprego",
-    "text": "O debate sobre emprego\n\n\n\n\n\n\nNota\n\n\nVisão pessimista: automação destrói empregos em massa, aumentando desemprego estrutural.\nVisão otimista: automação destrói tarefas, não necessariamente empregos — cria novas funções, desde que haja requalificação."
+    "section": "As cinco revoluções, lado a lado",
+    "text": "As cinco revoluções, lado a lado\n\n\n\n\nPeríodo\nTecnologia motriz\nMarca principal\n\n\n\n\nI1\nséc. XVIII\nVapor\nMecanização\n\n\nI2\nséc. XIX–XX\nEletricidade\nProdução em massa\n\n\nI3\n1970–1990\nEletrônica\nAutomação\n\n\nI4\n2010–hoje\nRede/IoT/IA\nConexão em tempo real\n\n\nI5\na partir de 2021\nRede/IoT/IA\nHumano no centro"
   },
   {
-    "objectID": "aulas/04-industria-4-0.html#discussão",
-    "href": "aulas/04-industria-4-0.html#discussão",
+    "objectID": "aulas/04-industria-4-0.html#e-depois-da-fábrica",
+    "href": "aulas/04-industria-4-0.html#e-depois-da-fábrica",
     "title": "Aula 04 — Indústria 4.0",
-    "section": "Discussão",
-    "text": "Discussão\nA automação da Indústria 4.0 é mais ameaça ou mais oportunidade para quem está se formando em Redes agora?\n\nConsiderem: quais habilidades humanas (crítica, comunicação, resolução de problemas complexos) continuam difíceis de automatizar?"
+    "section": "E depois da fábrica?",
+    "text": "E depois da fábrica?\n\nAté aqui, toda revolução industrial mudou algo dentro da fábrica\nMas a conectividade da I4.0 não ficou só lá dentro: saiu no bolso de todo mundo, no smartphone\nA mesma lógica de sensores + rede + dados em tempo real passou a organizar trabalho fora da fábrica"
+  },
+  {
+    "objectID": "aulas/04-industria-4-0.html#o-gancho-a-uberização",
+    "href": "aulas/04-industria-4-0.html#o-gancho-a-uberização",
+    "title": "Aula 04 — Indústria 4.0",
+    "section": "O gancho: a uberização",
+    "text": "O gancho: a uberização\n\n\nA uberização é a transformação do trabalho em serviços sob demanda, mediados por aplicativos digitais.\n\n\n\n\n\n\n\nNota\n\n\nPergunta: por que o nome vem de “Uber”?\n\nResposta: a Uber foi pioneira nesse modelo de conectar oferta e demanda de serviço via aplicativo — o nome da empresa virou sinônimo do fenômeno mais amplo."
+  },
+  {
+    "objectID": "aulas/04-industria-4-0.html#isso-é-conteúdo-da-aula-07",
+    "href": "aulas/04-industria-4-0.html#isso-é-conteúdo-da-aula-07",
+    "title": "Aula 04 — Indústria 4.0",
+    "section": "Isso é conteúdo da Aula 07",
+    "text": "Isso é conteúdo da Aula 07\n\nMotorista, entregador, prestador de serviço avulso: cada um vira um “ponto de rede” conectado por um app\nA mesma infraestrutura (geolocalização, nuvem, algoritmos) que estudamos na I4.0 sustenta esse modelo\nVantagens (flexibilidade) e problemas (precarização, ausência de vínculo) — vamos aprofundar isso na Aula 07: Uberização e Plataformização"
   },
   {
     "objectID": "aulas/04-industria-4-0.html#atividade-da-aula",
     "href": "aulas/04-industria-4-0.html#atividade-da-aula",
     "title": "Aula 04 — Indústria 4.0",
     "section": "Atividade da aula",
-    "text": "Atividade da aula\n\nEm grupos (12 min):\n\nEscolham um setor (agricultura, saúde, logística, manufatura)\nDescrevam como a Indústria 4.0 pode transformar esse setor (sensores, redes, automação)\nApontem 1 profissão que pode desaparecer e 1 profissão nova que pode surgir nesse setor"
+    "text": "Atividade da aula\n\nEm grupos (12 min):\n\nEscolham uma das cinco revoluções (I1 a I5)\nDescrevam, com suas palavras, a tecnologia motriz e o que ela mudou no trabalho\nConectem com o presente: algo da uberização (app, entrega, corrida) usa ideias dessa revolução? Qual?"
   },
   {
     "objectID": "aulas/04-industria-4-0.html#síntese-da-aula",
     "href": "aulas/04-industria-4-0.html#síntese-da-aula",
     "title": "Aula 04 — Indústria 4.0",
     "section": "Síntese da aula",
-    "text": "Síntese da aula\n\nIndústria 4.0 é a 4ª revolução industrial: máquinas e sistemas conectados em rede, com dados e IA\nTécnicos em Redes são peça-chave dessa infraestrutura\nAutomação muda o mercado de trabalho: destrói algumas tarefas, cria outras funções\nRequalificação profissional é cada vez mais necessária"
+    "text": "Síntese da aula\n\nCinco revoluções, cinco tecnologias motrizes: vapor, eletricidade, eletrônica, rede/IoT, e agora humano+IA\nA Indústria 4.0 se diferencia por conectar máquinas, sensores e sistemas em rede, em tempo real\nA Indústria 5.0 não troca a tecnologia da 4.0 — troca o foco, colocando o humano no centro\nEssa mesma conectividade, fora da fábrica, deu origem à uberização — tema da próxima aula"
   },
   {
     "objectID": "aulas/04-industria-4-0.html#próxima-aula",

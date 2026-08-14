@@ -1,0 +1,43 @@
+<svg viewBox="0 0 1100 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Linha do tempo das cinco revoluções industriais, de I1 a I5" font-family="Open Sans, Segoe UI, sans-serif">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#6b6b6b"/>
+    </marker>
+  </defs>
+  <line x1="70" y1="140" x2="1030" y2="140" stroke="#6b6b6b" stroke-width="4" marker-end="url(#arrowhead)"/>
+
+  <g>
+    <circle cx="140" cy="140" r="54" fill="#f2b90c"/>
+    <text x="140" y="152" text-anchor="middle" font-size="34" font-weight="700" fill="#0a5c2e">I1</text>
+    <text x="140" y="58" text-anchor="middle" font-size="20" font-weight="600" fill="#0a5c2e">Vapor</text>
+    <text x="140" y="222" text-anchor="middle" font-size="16" fill="#1a1a1a">séc. XVIII</text>
+  </g>
+
+  <g>
+    <circle cx="350" cy="140" r="54" fill="#0a5c2e"/>
+    <text x="350" y="152" text-anchor="middle" font-size="34" font-weight="700" fill="#ffffff">I2</text>
+    <text x="350" y="58" text-anchor="middle" font-size="20" font-weight="600" fill="#0a5c2e">Eletricidade</text>
+    <text x="350" y="222" text-anchor="middle" font-size="16" fill="#1a1a1a">séc. XIX–XX</text>
+  </g>
+
+  <g>
+    <circle cx="560" cy="140" r="54" fill="#f2b90c"/>
+    <text x="560" y="152" text-anchor="middle" font-size="34" font-weight="700" fill="#0a5c2e">I3</text>
+    <text x="560" y="58" text-anchor="middle" font-size="20" font-weight="600" fill="#0a5c2e">Automação</text>
+    <text x="560" y="222" text-anchor="middle" font-size="16" fill="#1a1a1a">déc. 1970–1990</text>
+  </g>
+
+  <g>
+    <circle cx="770" cy="140" r="54" fill="#0a5c2e"/>
+    <text x="770" y="152" text-anchor="middle" font-size="34" font-weight="700" fill="#ffffff">I4</text>
+    <text x="770" y="58" text-anchor="middle" font-size="20" font-weight="600" fill="#0a5c2e">Conectividade</text>
+    <text x="770" y="222" text-anchor="middle" font-size="16" fill="#1a1a1a">déc. 2010 – hoje</text>
+  </g>
+
+  <g>
+    <circle cx="980" cy="140" r="54" fill="#f2b90c"/>
+    <text x="980" y="152" text-anchor="middle" font-size="34" font-weight="700" fill="#0a5c2e">I5</text>
+    <text x="980" y="58" text-anchor="middle" font-size="20" font-weight="600" fill="#0a5c2e">Humano + IA</text>
+    <text x="980" y="222" text-anchor="middle" font-size="16" fill="#1a1a1a">a partir de 2021</text>
+  </g>
+</svg>
