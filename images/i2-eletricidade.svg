@@ -1,0 +1,16 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lâmpada acesa sobre uma linha de montagem, representando a 2a Revolução Industrial">
+  <circle cx="100" cy="100" r="96" fill="#0a5c2e"/>
+  <circle cx="100" cy="66" r="28" fill="#f2b90c"/>
+  <rect x="90" y="90" width="20" height="14" rx="2" fill="#ffffff"/>
+  <rect x="93" y="104" width="14" height="6" rx="2" fill="#ffffff"/>
+  <line x1="100" y1="24" x2="100" y2="12" stroke="#ffffff" stroke-width="4"/>
+  <line x1="70" y1="40" x2="61" y2="31" stroke="#ffffff" stroke-width="4"/>
+  <line x1="130" y1="40" x2="139" y2="31" stroke="#ffffff" stroke-width="4"/>
+  <line x1="52" y1="66" x2="40" y2="66" stroke="#ffffff" stroke-width="4"/>
+  <line x1="148" y1="66" x2="160" y2="66" stroke="#ffffff" stroke-width="4"/>
+  <rect x="30" y="150" width="140" height="10" rx="5" fill="#ffffff"/>
+  <rect x="48" y="128" width="26" height="22" rx="3" fill="#f2b90c"/>
+  <rect x="87" y="122" width="26" height="28" rx="3" fill="#f2b90c"/>
+  <rect x="126" y="128" width="26" height="22" rx="3" fill="#f2b90c"/>
+  <path d="M158 140 l10 -6 v12 z" fill="#ffffff"/>
+</svg>
