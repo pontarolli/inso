@@ -1,5 +1,8 @@
 project:
   type: website
+  preview:
+    port: 4242
+    browser: false
   render:
     - index.qmd
     - aulas/*.qmd

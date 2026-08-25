@@ -1,18 +1,21 @@
 ---
-title: "Aula 04 — Indústria 4.0"
+title: "Aula 04: Indústria 4.0"
+author:
+  - name: "Ricardo Pasquati Pontarolli"
+  - name: "Agnes Cruz de Souza"
 ---
 
 ## Objetivos da aula
 
 - Percorrer a linha do tempo das revoluções industriais, de **I1 a I5**
-- Entender o que muda de uma revolução para a outra — e por que a 4ª é diferente
+- Entender o que muda de uma revolução para a outra, e por que a 4ª é diferente
 - Situar o técnico em Redes dentro dessa história
 - Fechar com um gancho para os dias de hoje: a **uberização do trabalho**
 
 ::: {.notes}
 Aula com forte conexão à área técnica do curso. O fechamento com
-uberização é só um gancho — o conteúdo completo dela vem na Aula 07.
-Bom momento para trazer exemplos concretos de redes industriais, IoT,
+uberização é só um gancho; o conteúdo completo virá na aula específica.
+Bom momento para trazer exemplos concretos de redes industriais, IIoT,
 sensores.
 :::
 
@@ -20,9 +23,9 @@ sensores.
 
 ## O que é uma "revolução industrial"?
 
-> Um salto tecnológico que muda **como se produz** — e, junto com isso, muda o trabalho, as cidades e a forma como a sociedade se organiza.
+> Um salto tecnológico que muda **como se produz**, e, junto com isso, muda o trabalho, as cidades e a forma como a sociedade se organiza.
 
-- Não é só "uma máquina nova" — é uma mudança que se espalha por toda a economia
+- Não é só "uma máquina nova", é uma mudança que se espalha por toda a economia
 - Cada revolução tem uma **tecnologia motriz**: vapor, eletricidade, eletrônica, rede, IA
 
 ## Linha do tempo: de I1 a I5
@@ -33,13 +36,13 @@ sensores.
 **Pergunta rápida:** quantas revoluções industriais a maioria dos autores reconhece hoje?
 
 ::: {.fragment}
-**Resposta:** quatro consolidadas (1ª a 4ª) — e uma 5ª em debate desde 2021, ainda sendo construída.
+**Resposta:** quatro consolidadas (1ª a 4ª), e uma 5ª em debate desde 2021, ainda sendo construída.
 :::
 :::
 
 ---
 
-## I1 — A Revolução do Vapor {background-color="#fff8e1"}
+## I1: A Revolução do Vapor {background-color="#fff8e1"}
 
 ::: columns
 ::: {.column width="35%"}
@@ -53,15 +56,29 @@ sensores.
 :::
 :::
 
-::: {.callout-note}
-**Pergunta:** o que caracterizou a 1ª Revolução Industrial?
+## Vídeos: 1ª Revolução Industrial {background-color="#f3ead3"}
 
-::: {.fragment}
+1. [Vapor, carvão e a Revolução Industrial](https://www.youtube.com/watch?v=zhL5DCizj5c) — CrashCourse, 11 min
+2. [A Revolução Industrial na Europa](https://www.youtube.com/watch?v=zjK7PWmRRyg) — CrashCourse, 17 min
+3. [A Revolução Industrial no século XVIII](https://www.youtube.com/watch?v=R8OmJiYwY6I) — Reborn History, 22 min *
+4. [Trens: os pioneiros do vapor](https://www.youtube.com/watch?v=wOGYZC-IJPQ) — *Britain's Greatest Machines*, 47 min
+5. [Como funcionam os motores](https://www.youtube.com/watch?v=Tpyqgc4VqoU) — HISTORY, 45 min
+
+::: {.callout-tip}
+Clique no título para abrir o vídeo no YouTube. Ative as legendas e a tradução automática quando necessário.
+:::
+
+## Pergunta: 1ª Revolução Industrial {background-color="#eaf5ec"}
+
+::: {.pergunta-grande}
+O que caracterizou a 1ª Revolução Industrial?
+:::
+
+::: {.fragment .resposta-grande}
 **Resposta:** a mecanização da produção usando a força motriz do **vapor**, no lugar do trabalho manual e animal.
 :::
-:::
 
-## I2 — A Revolução da Eletricidade {background-color="#fff8e1"}
+## I2: A Revolução da Eletricidade {background-color="#fff8e1"}
 
 ::: columns
 ::: {.column width="35%"}
@@ -75,15 +92,29 @@ sensores.
 :::
 :::
 
-::: {.callout-note}
-**Pergunta:** qual inovação de gestão surge com a linha de montagem?
+## Vídeos: 2ª Revolução Industrial {background-color="#f3ead3"}
 
-::: {.fragment}
-**Resposta:** a **produção em série** — tarefas repetitivas, padronizadas e cronometradas, divididas entre vários operários.
-:::
+1. [Henry Ford: documentário completo](https://www.youtube.com/watch?v=AWK0tG_JWIU) — PBS America, 1 h 52 min
+2. [Ford, automóveis e uma nova revolução](https://www.youtube.com/watch?v=UPvwpYeOJnI) — CrashCourse, 11 min
+3. [Tesla contra Edison](https://www.youtube.com/watch?v=N9J8rlwI-OA) — The Henry Ford, 2 min *
+4. [Edison inaugura a primeira usina elétrica](https://www.youtube.com/watch?v=BpqQcHDgEZY) — HistoryPod, 2 min
+5. [Henry Ford, o Modelo T e a linha de montagem](https://www.youtube.com/watch?v=t0J_naOcxDs) — PeriscopeFilm, 15 min **
+
+::: {.callout-tip}
+Clique no título para abrir o vídeo no YouTube. Ative as legendas e a tradução automática quando necessário.
 :::
 
-## I3 — A Revolução da Automação {background-color="#fff8e1"}
+## Pergunta: 2ª Revolução Industrial {background-color="#eaf5ec"}
+
+::: {.pergunta-grande}
+Qual inovação de gestão surge com a linha de montagem?
+:::
+
+::: {.fragment .resposta-grande}
+**Resposta:** a **produção em série**: tarefas repetitivas, padronizadas e cronometradas, divididas entre vários operários.
+:::
+
+## I3: A Revolução da Automação {background-color="#fff8e1"}
 
 ::: columns
 ::: {.column width="35%"}
@@ -97,15 +128,29 @@ sensores.
 :::
 :::
 
-::: {.callout-note}
-**Pergunta:** o que essa revolução tira das mãos do operário?
+## Vídeos: 3ª Revolução Industrial {background-color="#f3ead3"}
 
-::: {.fragment}
-**Resposta:** tarefas repetitivas e o controle de processo — passam a ser automatizadas por eletrônica e computadores.
-:::
+1. [O que é um CLP?](https://www.youtube.com/watch?v=ReTtgzN-Dmc) — RealPars, 1 min 39 s *
+2. [CLP passo a passo: programação na prática](https://www.youtube.com/watch?v=s_N89pTuH7w) — Mundo da Elétrica, 9 min, em português
+3. [Unimate: o primeiro robô em uma linha industrial](https://www.youtube.com/watch?v=-Xl2c91pWGc) — The Henry Ford, 3 min **
+4. [Como funcionam os robôs industriais KUKA?](https://www.youtube.com/watch?v=pSdjIQxII2s) — Reverse Engineering, 12 min, em português
+5. [Por dentro de uma fábrica robotizada da BMW](https://www.youtube.com/watch?v=P7fi4hP_y80) — GommeBlog, 14 min
+
+::: {.callout-tip}
+Clique no título para abrir o vídeo no YouTube. Ative as legendas e a tradução automática quando necessário.
 :::
 
-## I4 — Indústria 4.0 {background-color="#fff8e1"}
+## Pergunta: 3ª Revolução Industrial {background-color="#eaf5ec"}
+
+::: {.pergunta-grande}
+O que essa revolução tira das mãos do operário?
+:::
+
+::: {.fragment .resposta-grande}
+**Resposta:** tarefas repetitivas e o controle de processo, que passam a ser automatizadas por eletrônica e computadores.
+:::
+
+## I4: Indústria 4.0 {background-color="#fff8e1"}
 
 ::: columns
 ::: {.column width="35%"}
@@ -113,18 +158,32 @@ sensores.
 :::
 ::: {.column width="65%"}
 - **Da década de 2010 até hoje**
-- Internet das Coisas (IoT), big data, inteligência artificial
+- Internet das Coisas Industrial (IIoT), big data, inteligência artificial
 - Sistemas ciberfísicos: máquinas, sensores e nuvem em **rede**
 - Decisões automatizadas e em tempo real
 :::
 :::
 
-::: {.callout-note}
-**Pergunta:** a I3 já tinha computador na fábrica — o que a I4.0 tem de diferente?
+## Vídeos: 4ª Revolução Industrial {background-color="#f3ead3"}
 
-::: {.fragment}
-**Resposta:** a **conexão em rede** entre máquinas, sensores e sistemas — não é mais automação isolada, é um conjunto de dados trocados e decisões tomadas em tempo real.
+1. [Por dentro da fábrica eletrônica da Siemens](https://www.youtube.com/watch?v=bblW3UbbzN8) — Siemens, 11 min
+2. [O futuro da manufatura e a Quarta Revolução](https://www.youtube.com/watch?v=lc_0GBeA6-U) — Fórum Econômico Mundial, 3 min
+3. [Indústria 4.0 na fábrica digital da Bosch](https://www.youtube.com/watch?v=m6sl8KMsm5Q) — Bosch Global, 4 min **
+4. [O que é Internet das Coisas Industrial?](https://www.youtube.com/watch?v=HmbUJEShA-8) — RealPars, 8 min *
+5. [A Quarta Revolução Industrial em três minutos](https://www.youtube.com/watch?v=IWvipzHyL8c) — Fourth Industrial Revolution, 3 min
+
+::: {.callout-tip}
+Clique no título para abrir o vídeo no YouTube. Ative as legendas e a tradução automática quando necessário.
 :::
+
+## Pergunta: 4ª Revolução Industrial {background-color="#eaf5ec"}
+
+::: {.pergunta-grande}
+Se a I3 já tinha computador na fábrica, o que a I4.0 tem de diferente?
+:::
+
+::: {.fragment .resposta-grande}
+**Resposta:** a **conexão em rede** entre máquinas, sensores e sistemas: não é mais automação isolada, é um conjunto de dados trocados e decisões tomadas em tempo real.
 :::
 
 ## Onde entra o técnico em Redes? {background-color="#eaf5ec"}
@@ -132,10 +191,10 @@ sensores.
 ::: {.incremental}
 - Projetar e manter a **infraestrutura de rede** que conecta sensores, máquinas e sistemas
 - Garantir **segurança** de redes industriais (um ataque pode parar uma fábrica inteira)
-- Entender que essa rede **não é só técnica** — impacta empregos, rotinas e cidades inteiras
+- Entender que essa rede **não é só técnica**: impacta empregos, rotinas e cidades inteiras
 :::
 
-## I5 — Indústria 5.0 {background-color="#fff8e1"}
+## I5: Indústria 5.0 {background-color="#fff8e1"}
 
 ::: columns
 ::: {.column width="35%"}
@@ -143,18 +202,20 @@ sensores.
 :::
 ::: {.column width="65%"}
 - Conceito lançado pela **Comissão Europeia em 2021**, ainda em construção
-- Usa a mesma base tecnológica da 4.0 (IoT, IA, rede)
+- Usa a mesma base tecnológica da 4.0 (IIoT, IA, rede)
 - Muda o **foco**: humano no centro, sustentabilidade, resiliência
 - Colaboração humano-robô (*cobots*), não substituição pura
 :::
 :::
 
-::: {.callout-note}
-**Pergunta:** a Indústria 5.0 substitui a 4.0?
+## Pergunta: Indústria 5.0 {background-color="#eaf5ec"}
 
-::: {.fragment}
-**Resposta:** não. Ela usa a mesma tecnologia da 4.0, mas muda a prioridade: de "eficiência e lucro" para "pessoas, sustentabilidade e resiliência".
+::: {.pergunta-grande}
+A Indústria 5.0 substitui a 4.0?
 :::
+
+::: {.fragment .resposta-grande}
+**Resposta:** não. Ela usa a mesma tecnologia da 4.0, mas muda a prioridade: de "eficiência e lucro" para "pessoas, sustentabilidade e resiliência".
 :::
 
 ---
@@ -166,64 +227,33 @@ sensores.
 | **I1** | séc. XVIII | Vapor | Mecanização |
 | **I2** | séc. XIX–XX | Eletricidade | Produção em massa |
 | **I3** | 1970–1990 | Eletrônica | Automação |
-| **I4** | 2010–hoje | Rede/IoT/IA | Conexão em tempo real |
-| **I5** | a partir de 2021 | Rede/IoT/IA | Humano no centro |
+| **I4** | 2010–hoje | Rede/IIoT/IA | Conexão em tempo real |
+| **I5** | a partir de 2021 | Rede/IIoT/IA | Humano no centro |
 
 ---
 
-## E depois da fábrica?
+## Um gancho: uberização
 
-- Até aqui, toda revolução industrial mudou algo **dentro da fábrica**
-- Mas a conectividade da I4.0 não ficou só lá dentro: saiu no bolso de todo mundo, no **smartphone**
-- A mesma lógica de sensores + rede + dados em tempo real passou a organizar **trabalho fora da fábrica**
+::: columns
+::: {.column width="30%"}
+![](../images/uberizacao.svg){fig-alt="Ícone de smartphone com pino de localização conectado a um entregador" width="80%"}
+:::
+::: {.column width="70%"}
+> **Uberização** é o trabalho sob demanda mediado por plataformas e aplicativos digitais.
 
-## O gancho: a uberização
-
-![](../images/uberizacao.svg){fig-alt="Ícone de smartphone com pino de localização conectado a um entregador" width="30%"}
-
-> **A uberização é a transformação do trabalho em serviços sob demanda, mediados por aplicativos digitais.**
-
-::: {.callout-note}
-**Pergunta:** por que o nome vem de "Uber"?
-
-::: {.fragment}
-**Resposta:** a Uber foi pioneira nesse modelo de conectar oferta e demanda de serviço via aplicativo — o nome da empresa virou sinônimo do fenômeno mais amplo.
+- Usa a conectividade, a nuvem, a geolocalização e os algoritmos da Indústria 4.0
+- Esse tema será aprofundado na **aula sobre uberização**
 :::
 :::
-
-## Isso é conteúdo da Aula 07
-
-::: {.incremental}
-- Motorista, entregador, prestador de serviço avulso: cada um vira um "ponto de rede" conectado por um app
-- A mesma infraestrutura (geolocalização, nuvem, algoritmos) que estudamos na I4.0 sustenta esse modelo
-- Vantagens (flexibilidade) e problemas (precarização, ausência de vínculo) — vamos aprofundar isso **na Aula 07: Uberização e Plataformização**
-:::
-
----
-
-## Atividade da aula
-
-:::: {.callout-lab}
-**Em grupos (12 min):**
-
-1. Escolham uma das cinco revoluções (I1 a I5)
-2. Descrevam, com suas palavras, a tecnologia motriz e o que ela mudou no trabalho
-3. Conectem com o presente: algo da uberização (app, entrega, corrida) usa ideias dessa revolução? Qual?
-::::
 
 ## Síntese da aula
 
-- Cinco revoluções, cinco tecnologias motrizes: vapor, eletricidade, eletrônica, rede/IoT, e agora humano+IA
+- Cinco revoluções, cinco tecnologias motrizes: vapor, eletricidade, eletrônica, rede/IIoT, e agora humano+IA
 - A Indústria 4.0 se diferencia por conectar máquinas, sensores e sistemas em **rede**, em tempo real
-- A Indústria 5.0 não troca a tecnologia da 4.0 — troca o foco, colocando o humano no centro
-- Essa mesma conectividade, fora da fábrica, deu origem à **uberização** — tema da próxima aula
+- A Indústria 5.0 não troca a tecnologia da 4.0, troca o foco, colocando o humano no centro
+- Fora da fábrica, essa conectividade também transforma o trabalho, como veremos na aula sobre **uberização**
 
-## Próxima aula
-
-**Tecnologia, educação e qualificação humana** — como essas mudanças afetam a forma como aprendemos e nos formamos
 
 ---
 
-## Referências
-
-- GIDDENS, Anthony; SUTTON, Philip W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.
+## Obrigado! {.center}

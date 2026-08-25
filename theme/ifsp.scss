@@ -67,6 +67,26 @@ $code-block-border-color: #0a5c2e;
   border-left: 6px solid #f2b90c;
 }
 
+.reveal .pergunta-grande {
+  color: #143d27;
+  font-size: 1.65em;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 1.15em auto 0.8em;
+  max-width: 90%;
+  text-align: center;
+}
+
+.reveal .resposta-grande {
+  background: #ffffff;
+  border-left: 6px solid #f2b90c;
+  border-radius: 8px;
+  font-size: 1.05em;
+  line-height: 1.35;
+  margin-top: 1em;
+  padding: 0.65em 0.9em;
+}
+
 .reveal pre code {
   font-size: 0.7em;
 }
