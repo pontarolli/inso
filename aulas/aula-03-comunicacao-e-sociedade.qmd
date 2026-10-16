@@ -1,0 +1,73 @@
+---
+title: "Aula 03 — Introdução à Comunicação e à Sociedade"
+---
+
+## Objetivos da Aula
+
+- Entender a **comunicação** como base da vida social.
+- Conhecer os **elementos** do processo comunicativo.
+- Refletir sobre a comunicação na **era digital**.
+
+## O que é Comunicação?
+
+- Processo de **transmitir e trocar informações**.
+- É a base da **convivência humana** e da cultura.
+- Sem comunicação não há **sociedade**.
+
+## Elementos da Comunicação
+
+- **Emissor:** quem envia a mensagem.
+- **Mensagem:** o conteúdo transmitido.
+- **Canal:** o meio (voz, texto, rede).
+- **Receptor:** quem recebe.
+- **Código:** o conjunto de sinais (idioma, imagens).
+- **Contexto:** as circunstâncias da troca.
+
+## A Comunicação nos Une
+
+- Compartilhar significados cria **identidade coletiva**.
+- A linguagem organiza o **pensamento** e a **cultura**.
+- Sociedades complexas dependem de **comunicação ampliada**.
+
+## Da Fala às Redes
+
+- Comunicação **face a face** (presencial).
+- Comunicação **de massa** (rádio, TV, jornal).
+- Comunicação **em rede** (internet, redes sociais).
+- Cada etapa amplia o **alcance** — e os **desafios**.
+
+## Comunicação em Rede
+
+- Mensagens circulam de **muitos para muitos**.
+- Instantaneidade e **alcance global**.
+- Novos atores: influenciadores, algoritmos, plataformas.
+
+::: {.callout-note}
+A internet não eliminou os antigos meios: ela **integra** rádio, TV e imprensa em um mesmo ambiente digital.
+:::
+
+## Ruído e Desinformação
+
+- Todo processo comunicativo pode sofrer **ruídos**.
+- No ambiente digital, o ruído cresce com **fake news**.
+- É preciso desenvolver **leitura crítica** da informação.
+
+## Resumo da Aula
+
+- Comunicação é a **base da sociedade**.
+- Tem **emissor, mensagem, canal, receptor, código** e **contexto**.
+- A era digital transformou **quem comunica e como**.
+
+## Atividade Rápida
+
+- Descreva uma conversa identificando **todos os elementos** da comunicação.
+- Liste **duas vantagens** e **dois riscos** da comunicação em rede.
+
+## Referências
+
+- GIDDENS, A.; SUTTON, P. W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.
+- LEMOS, R.; DI FELICE, M. *A vida em rede*. Campinas: Papirus 7 Mares, 2019.
+
+## Próxima Aula
+
+- **Aula 04:** História da comunicação — Parte 1.

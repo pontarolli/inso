@@ -1,0 +1,61 @@
+---
+title: "Aula 14 — Laboratório: Pesquisa sobre Algoritmos e IA (2)"
+---
+
+## Objetivos da Aula
+
+- **Aprofundar** a pesquisa iniciada.
+- Estruturar o **roteiro** da apresentação.
+- Finalizar o **material** do trabalho.
+
+## Retomada
+
+- Revisar o **tema** e as **fontes** da última aula.
+- Tirar dúvidas com o professor.
+- Ajustar o **foco** se necessário.
+
+## Aprofundando a Pesquisa
+
+- Buscar **dados e exemplos concretos**.
+- Trazer **números** que reforcem os argumentos.
+- Encontrar **casos reais** do tema escolhido.
+
+## Estruturando a Apresentação
+
+- **Introdução:** o que é o tema e por que importa.
+- **Desenvolvimento:** dados, exemplos e análise.
+- **Conclusão:** síntese e opinião do grupo.
+
+## Cuidados com a Apresentação
+
+- Slides **simples**, com pouco texto.
+- Tempo **distribuído** entre os integrantes.
+- Preparar para **perguntas** da turma.
+
+::: {.callout-note}
+Apresentar bem é **ensinar**: organize a informação pensando em quem vai ouvir.
+:::
+
+## Checklist do Grupo
+
+- Tema delimitado?
+- Fontes confiáveis citadas?
+- Roteiro pronto?
+- Divisão de fala definida?
+- Tempo ensaiado?
+
+## Produto da Aula
+
+- **Roteiro** finalizado.
+- **Slides** iniciados.
+- **Divisão de tarefas** para a apresentação.
+
+## Resumo da Aula
+
+- A pesquisa se aprofunda com **dados e exemplos**.
+- A apresentação segue **introdução, desenvolvimento e conclusão**.
+- O grupo organiza **tempo e falas**.
+
+## Próxima Aula
+
+- **Aula 15:** Organização e roteiro do trabalho em grupos.

@@ -1,0 +1,76 @@
+---
+title: "Aula 07 — Sociedade da Informação"
+---
+
+## Objetivos da Aula
+
+- Definir **Sociedade da Informação**.
+- Identificar as **mudanças** trazidas pela informática.
+- Refletir sobre **inclusão e exclusão** digital.
+
+## O que é a Sociedade da Informação?
+
+- Sociedade em que a **informação** é o principal recurso.
+- O trabalho e a economia passam a depender do **conhecimento**.
+- Surge com a difusão da **informática e das redes**.
+
+## Da Indústria à Informação
+
+- Sociedade **agrícola** → sociedade **industrial** → sociedade da **informação**.
+- O valor migra do produto físico para o **dado e o conhecimento**.
+- Cresce a importância de **computadores e telecomunicações**.
+
+## Tecnologias-Chave
+
+- Computação pessoal e software.
+- Redes de computadores e internet.
+- Bancos de dados e sistemas de informação.
+- Celulares e dispositivos móveis.
+
+## Transformações Sociais
+
+- Novo jeito de **trabalhar, estudar e consumir**.
+- Informação **abundante e instantânea**.
+- Serviços digitais: banco, governo, saúde, educação.
+
+## A Revolução da Informática
+
+- Dados passam a circular em **velocidade e escala** inéditas.
+- Automatização de tarefas e **novas profissões**.
+- Dependência crescente de **sistemas digitais**.
+
+## Inclusão e Exclusão Digital
+
+- O acesso não é igual para **todos**.
+- Exclusão digital = falta de acesso a **rede, dispositivos e capacitação**.
+- A exclusão digital aprofunda desigualdades **sociais e econômicas**.
+
+::: {.callout-note}
+Estar "conectado" não basta: a **capacitação** para usar a informação criticamente é parte da verdadeira inclusão digital.
+:::
+
+## Desafios da Sociedade da Informação
+
+- **Desigualdade** de acesso e de qualidade de conexão.
+- **Privacidade** e uso de dados pessoais.
+- **Desinformação** e sobrecarga de informação.
+
+## Resumo da Aula
+
+- Na Sociedade da Informação, o **conhecimento** é central.
+- A informática **transformou** trabalho, cultura e serviços.
+- A **exclusão digital** é um dos maiores desafios.
+
+## Atividade Rápida
+
+- Liste **três serviços** que hoje dependem da internet.
+- Discuta: o que acontece com quem **não tem acesso**?
+
+## Referências
+
+- CASTELLS, M. *A sociedade em rede*. São Paulo: Paz e Terra.
+- GIDDENS, A.; SUTTON, P. W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.
+
+## Próxima Aula
+
+- **Aula 08:** Algoritmos e a vida social — Parte 1.

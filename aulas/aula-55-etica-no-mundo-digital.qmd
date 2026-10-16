@@ -1,0 +1,61 @@
+---
+title: "Aula 55 — Ética no Mundo Digital"
+---
+
+## Objetivos da Aula
+
+- Compreender a **ética** aplicada ao digital.
+- Conhecer **princípios** de conduta online.
+- Refletir sobre **responsabilidade** nas redes.
+
+## Ética e Tecnologia
+
+- Ética é a reflexão sobre **o que é certo**.
+- No digital, envolve **como agimos** com a tecnologia.
+- Não há "terra sem lei" na internet.
+
+## Princípios de Conduta
+
+- **Respeito** às pessoas.
+- **Honestidade** e transparência.
+- **Responsabilidade** pelos atos.
+- **Empatia** digital.
+
+## Netiqueta
+
+- Tratar as pessoas **com respeito** online.
+- Não escrever nada que não diria **pessoalmente**.
+- Cuidar do **tom** das mensagens (sem agressividade).
+
+## Liberdade x Responsabilidade
+
+- A liberdade de expressão tem **limites**.
+- Ofensas, ameaças e **discurso de ódio** não são liberdade.
+- Cada post tem **consequências**.
+
+::: {.callout-note}
+Na internet, o que se escreve **permanece**: a ética digital começa por pensar antes de publicar.
+:::
+
+## Pegada Digital
+
+- Todo rastro que deixamos **online**.
+- Redes sociais, buscas, comentários.
+- Pode afetar **estudos, emprego e reputação**.
+
+## Práticas Éticas
+
+- **Pedir autorização** antes de publicar sobre outros.
+- Citar **fontes**.
+- Não compartilhar conteúdo **sensível**.
+- **Denunciar** violências.
+
+## Resumo da Aula
+
+- A ética vale também **no digital**.
+- Liberdade exige **responsabilidade**.
+- A **pegada digital** é permanente.
+
+## Próxima Aula
+
+- **Aula 56:** Segurança no mundo digital.

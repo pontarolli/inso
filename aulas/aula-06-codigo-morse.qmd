@@ -1,0 +1,74 @@
+---
+title: "Aula 06 — Código Morse: a Comunicação Codificada (Atividade)"
+---
+
+## Objetivos da Aula
+
+- Entender o que é um **código** de comunicação.
+- Conhecer o funcionamento do **Código Morse**.
+- Praticar a codificação de mensagens simples.
+
+## O que é um Código?
+
+- Sistema de **sinais** que representam informação.
+- Permite transmitir mensagens por meios limitados.
+- Precisa ser **combinado** entre emissor e receptor.
+
+## O Código Morse
+
+- Criado por **Samuel Morse** e Alfred Vail (século XIX).
+- Representa letras e números por **pontos e traços**.
+- Transmitido por pulsos elétricos, luz ou som.
+
+## Como Funciona
+
+- **Ponto** (·): pulso curto.
+- **Traço** (–): pulso longo.
+- Uma **pausa** separa letras; uma pausa maior separa palavras.
+
+## Exemplos
+
+| Letra | Código |
+|-------|--------|
+| A | · – |
+| B | – · · · |
+| S | · · · |
+| O | – – – |
+| SOS | · · · – – – · · · |
+
+## Por que foi importante?
+
+- Viabilizou o **telégrafo**.
+- Permitiu comunicação rápida **entre cidades e países**.
+- Foi usado em **rádio** e em situações de emergência (SOS).
+
+::: {.callout-note}
+O Morse mostra que é possível transmitir informação complexa usando sinais **muito simples** — princípio usado até nos computadores (0 e 1).
+:::
+
+## Ponte com a Computação
+
+- Computadores usam um código parecido: o **binário** (0 e 1).
+- Códigos traduzem informação para **sinais** que a máquina entende.
+- Comunicar é, muitas vezes, **codificar e decodificar**.
+
+## Atividade em Sala
+
+- Escreva **seu nome** em Código Morse.
+- Depois, troque com um colega para **decodificar** a mensagem.
+- Ao final, monte a mensagem **"IFSP BOITUVA"** em Morse.
+
+## Resumo da Aula
+
+- Um código representa informação com **sinais combinados**.
+- O Morse usa **pontos, traços e pausas**.
+- A ideia de **codificar** informação é base da computação.
+
+## Referências
+
+- BRIGGS, A.; BURKE, P. *Uma história social da mídia*.
+- Material de apoio: tabela do Código Morse.
+
+## Próxima Aula
+
+- **Aula 07:** Sociedade da Informação.

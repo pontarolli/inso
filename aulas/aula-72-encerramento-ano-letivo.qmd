@@ -1,0 +1,65 @@
+---
+title: "Aula 72 — Encerramento do Ano Letivo"
+---
+
+## Chegamos ao Fim!
+
+- Um ano de **reflexão** sobre tecnologia e sociedade.
+- Muito aprendizado e **convívio**.
+- Hora de olhar para **trás** e para **frente**.
+
+## O que Construímos Este Ano
+
+- Olhar **crítico** sobre a tecnologia.
+- Capacidade de **argumentar e debater**.
+- Consciência de **ética, direitos e diversidade**.
+- Uso mais **consciente** das redes.
+
+## Retomando os Grandes Temas
+
+- **Sociedade e tecnologia**.
+- **Algoritmos, IA e mídias**.
+- **Trabalho e Indústria 4.0**.
+- **Ética, cidadania e diversidade**.
+
+## A Tecnologia no Seu Futuro
+
+- Você será **técnico** em Redes de Computadores.
+- **Técnico e cidadão** ao mesmo tempo.
+- Suas decisões **afetam pessoas**.
+- Use a tecnologia para **incluir e melhorar** vidas.
+
+::: {.callout-note}
+Ser techcnico é dominar a técnica; ser **cidadão** é decidir como usá-la. Você agora reúne as duas coisas.
+:::
+
+## Lições para Levar
+
+- A tecnologia **não é neutra**.
+- **Verifique** antes de compartilhar.
+- **Respeite** a diversidade.
+- **Pense** nas consequências.
+- **Aprenda** sempre.
+
+## Agradecimentos
+
+- Obrigado pela **participação** e pelo **empenho**.
+- Obrigado pelos **debates** e pela escuta.
+- Foi um prazer **aprender** com vocês.
+
+## Resumo Final
+
+- Fechamos o **ano letivo**.
+- Levamos **aprendizados** para a vida.
+- A tecnologia, nas **suas mãos**, pode ser transformadora.
+
+## Despedida
+
+- Bom prosseguimento nos **estudos**.
+- Sucesso na **vida profissional**.
+- Até breve!
+
+## Referências
+
+- GIDDENS, A.; SUTTON, P. W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.
+- LEMOS, R.; DI FELICE, M. *A vida em rede*. Campinas: Papirus 7 Mares, 2019.

@@ -1,0 +1,74 @@
+---
+title: "Aula 10 — Inteligência Artificial: Conceitos e Aplicações"
+---
+
+## Objetivos da Aula
+
+- Entender o que é **Inteligência Artificial (IA)**.
+- Conhecer **tipos e exemplos** de IA no cotidiano.
+- Diferenciar **IA forte** e **IA fraca**.
+
+## O que é Inteligência Artificial?
+
+- Área da computação que cria sistemas capazes de realizar tarefas que exigem **inteligência humana**.
+- Envolve **aprender, reconhecer, decidir e gerar**.
+- Baseia-se em **dados** e **algoritmos**.
+
+## Como a IA Aprende
+
+- **Machine Learning**: aprende padrões a partir de dados.
+- **Redes neurais**: inspiradas no cérebro humano.
+- Quanto mais **dados**, maior o potencial de aprendizado.
+
+## IA Fraca × IA Forte
+
+- **IA fraca (estreita):** resolve tarefas específicas.
+- **IA forte (geral):** teria consciência e raciocínio amplo — ainda teórica.
+- Toda IA atual é **estreita**.
+
+## IA no Cotidiano
+
+- Assistente de voz e tradução automática.
+- Recomendações de filmes, música e compras.
+- Reconhecimento facial e de imagens.
+- Diagnóstico médico e carros autônomos.
+
+## IA nas Áreas do Conhecimento
+
+| Área | Uso de IA |
+|------|-----------|
+| Saúde | Diagnóstico por imagem |
+| Agricultura | Previsão de safra |
+| Educação | Tutores personalizados |
+| Transporte | Rotas e veículos autônomos |
+| Indústria | Controle de qualidade |
+
+::: {.callout-note}
+A IA atual **não pensa como pessoas**: ela encontra **padrões** em grandes volumes de dados.
+:::
+
+## Limites da IA
+
+- Depende da **qualidade dos dados**.
+- Pode **errar** e reforçar preconceitos.
+- Não tem **senso ético** próprio — as decisões vêm de humanos.
+
+## Resumo da Aula
+
+- IA são sistemas que realizam tarefas **"inteligentes"**.
+- Aprende com **dados** e **algoritmos**.
+- Toda IA atual é **estreita**, mas já transforma a sociedade.
+
+## Atividade Rápida
+
+- Cite **três** usos de IA que você já viu.
+- Escolha um e imagine **um risco** e **um benefício**.
+
+## Referências
+
+- RUSSELL, S.; NORVIG, P. *Inteligência Artificial*. Rio de Janeiro: Elsevier.
+- Vídeos sobre IA (YouTube).
+
+## Próxima Aula
+
+- **Aula 11:** IA e o cotidiano — vídeos e debate.

@@ -9,6 +9,20 @@
 /aulas-professora-agnes/
 /livros/
 
+# Provas e atividades avaliativas (contêm gabarito) — não publicar/versionar
+# no repositório público até o professor decidir o contrário.
+/avaliacoes/
+
+# Material de trabalho do professor (notas, planos, anotações) — não é conteúdo do aluno
+/notas 3 bi/
+/red/
+/BTV*.pdf
+/plano-de-aula.pdf
+/10-09-2026.txt
+/inso.docx
+/Indústria 4.0.pdf
+/inso comentário trabalhos terceiro bimestre.pdf
+
 __pycache__/
 *.pyc
 

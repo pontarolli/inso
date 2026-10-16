@@ -1,0 +1,59 @@
+---
+title: "Aula 32 — Cultura, Diversidade e Tecnologia: Parte 1"
+---
+
+## Objetivos da Aula
+
+- Compreender os conceitos de **cultura** e **diversidade**.
+- Entender a **alteridade**.
+- Relacionar cultura e **tecnologia**.
+
+## O que é Cultura?
+
+- Conjunto de **valores, costumes, crenças e práticas** de um grupo.
+- Não é apenas "erudição": é o **modo de vida**.
+- É **aprendida** e **compartilhada**.
+
+## Diversidade Cultural
+
+- Existência de **muitas culturas** diferentes.
+- Diferenças de língua, religião, costumes, história.
+- A diversidade **enriquece** a sociedade.
+
+## Alteridade
+
+- Capacidade de se colocar no **lugar do outro**.
+- Reconhecer o outro como **diferente e legítimo**.
+- Base do **respeito** e da convivência.
+
+## Etnocentrismo
+
+- Julgar outras culturas pela **própria** como referência.
+- Leva ao **preconceito** e à discriminação.
+- Combate-se com **alteridade** e conhecimento.
+
+::: {.callout-note}
+Diversidade não é ameaça: é a **condição** da vida social e uma **fonte de riqueza** cultural.
+:::
+
+## Tecnologia e Cultura
+
+- A tecnologia **expressa** e **transforma** a cultura.
+- Ela pode **valorizar** ou **apagar** culturas.
+- Plataformas criam **novas formas** de cultura.
+
+## Reflexão
+
+- Que culturas você vê nas **redes**?
+- Quais **ficam de fora**?
+- Por quê?
+
+## Resumo da Aula
+
+- Cultura é o **modo de vida** de um grupo.
+- A **diversidade** é uma riqueza.
+- Alteridade e respeito são **fundamentais**.
+
+## Próxima Aula
+
+- **Aula 33:** Cultura, diversidade e tecnologia — Parte 2.

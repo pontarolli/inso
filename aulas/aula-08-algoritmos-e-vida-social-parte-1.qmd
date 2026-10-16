@@ -1,0 +1,70 @@
+---
+title: "Aula 08 — Algoritmos e a Vida Social: Parte 1"
+---
+
+## Objetivos da Aula
+
+- Entender o que é um **algoritmo**.
+- Perceber como os algoritmos **influenciam** decisões.
+- Reconhecer algoritmos no **cotidiano**.
+
+## O que é um Algoritmo?
+
+- Sequência **ordenada de passos** para resolver um problema.
+- Não é só computador: uma receita é um algoritmo.
+- Todo programa de computador é feito de **algoritmos**.
+
+## Algoritmos no Cotidiano
+
+- Organizar a fila de um banco.
+- Calcular a rota de um aplicativo de transporte.
+- Sugerir vídeos e músicas nas plataformas.
+- Decidir um limite de crédito.
+
+## Algoritmos e Decisões
+
+- Algoritmos **decidem** o que vemos, ouvimos e compramos.
+- Definem preços, rotas, seguros e crédito.
+- Essas decisões afetam **pessoas reais**.
+
+## Algoritmos e Escolhas Humanas
+
+- Todo algoritmo é feito por **pessoas**.
+- Reflete **escolhas e valores** de quem o programa.
+- Não é **neutro**: pode reproduzir preconceitos.
+
+## A Caixa-Preta
+
+- Muitas vezes não sabemos **como** o algoritmo decide.
+- Essa opacidade dificulta **questionar** resultados.
+- Surge o direito à **explicação** das decisões automáticas.
+
+::: {.callout-note}
+Quando um algoritmo decide por você, ele **não é neutro**: alguém definiu suas regras e seus objetivos.
+:::
+
+## Algoritmos e Atenção
+
+- Plataformas usam algoritmos para **prender a atenção**.
+- Quanto mais tempo conectado, mais dados e **publicidade**.
+- A atenção se torna um **recurso disputado**.
+
+## Resumo da Aula
+
+- Algoritmo é uma **sequência de passos** para resolver problemas.
+- Eles **influenciam** decisões sociais e individuais.
+- Não são neutros: carregam **escolhas humanas**.
+
+## Atividade Rápida
+
+- Liste **três** algoritmos que você usa sem perceber.
+- Escolha um e explique **como** ele toma decisões.
+
+## Referências
+
+- CASTELLS, M. *A sociedade em rede*. São Paulo: Paz e Terra.
+- Documentários e vídeos sobre algoritmos e atenção (YouTube).
+
+## Próxima Aula
+
+- **Aula 09:** Algoritmos e a vida social — Parte 2.

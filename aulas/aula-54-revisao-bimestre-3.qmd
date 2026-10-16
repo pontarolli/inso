@@ -1,0 +1,62 @@
+---
+title: "Aula 54 — Síntese e Revisão do 3º Bimestre"
+---
+
+## Objetivos da Aula
+
+- **Revisar** os conceitos do 3º bimestre.
+- Organizar o **estudo**.
+- Esclarecer **dúvidas**.
+
+## O que Estudamos
+
+- Cultura digital e diversidade.
+- Autoimagem, filtros e deepfakes.
+- Racismo e exclusão digital.
+- TikTok e novas mídias.
+- Fake news, checagem e IA generativa.
+
+## Autoimagem e Mídia
+
+- **Filtros** e comparação social.
+- **Deepfakes** e manipulação.
+- Padrões de **beleza** e autoestima.
+
+## Racismo e Exclusão Digital
+
+- Racismo **estrutural** e nas redes.
+- **Viés algorítmico** e raça.
+- Inclusão e **educação antirracista**.
+
+## Fake News e Checagem
+
+- **Pós-verdade** e desinformação.
+- Método de **checagem** de fatos.
+- **Responsabilidade** de quem compartilha.
+
+## IA Generativa
+
+- **ChatGPT** e IA generativa.
+- Boas **perguntas** (prompts).
+- **Riscos**: alucinações, viés, privacidade.
+
+::: {.callout-note}
+Do **autoimagem** à **IA generativa**, o tema comum é: usar a tecnologia de forma **crítica e ética**.
+:::
+
+## Como se Preparar
+
+- Reler os **resumos** das aulas.
+- Refazer as **atividades**.
+- Fazer **esquemas** e resumos.
+- Tirar **dúvidas**.
+
+## Resumo da Aula
+
+- O bimestre abordou **cultura digital e mídias**.
+- Fake news, deepfakes e IA exigem **olhar crítico**.
+- A revisão prepara para a **avaliação**.
+
+## Próxima Aula
+
+- **Aula 55:** Ética no mundo digital.

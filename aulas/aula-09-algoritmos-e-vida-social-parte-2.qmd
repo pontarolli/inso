@@ -1,0 +1,75 @@
+---
+title: "Aula 09 — Algoritmos e a Vida Social: Parte 2"
+---
+
+## Objetivos da Aula
+
+- Compreender o papel dos algoritmos nas **plataformas digitais**.
+- Entender **filtros-bolha** e **câmaras de eco**.
+- Refletir sobre **autonomia** na era dos algoritmos.
+
+## Algoritmos de Recomendação
+
+- Selecionam o que aparece no seu **feed**.
+- Baseiam-se em **dados** do seu comportamento.
+- Objetivo principal: **manter você conectado**.
+
+## Filtros-Bolha
+
+- O algoritmo mostra sobretudo o que você **já gosta**.
+- Você passa a ver apenas **uma parte** do mundo.
+- Diminui o contato com **opiniões diferentes**.
+
+## Câmaras de Eco
+
+- Grupos reforçam as **mesmas crenças**.
+- Informações repetidas parecem **mais verdadeiras**.
+- Facilita a polarização e as **fake news**.
+
+## Personalização
+
+- Cada pessoa vê um conteúdo **diferente**.
+- Não existe "um" feed igual para todos.
+- Isso dificulta o **debate público comum**.
+
+## Bolhas e Sociedade
+
+- Reforço de **preconceitos** e visões extremas.
+- Dificuldade de **diálogo** entre grupos.
+- Risco para a **democracia** e a convivência.
+
+::: {.callout-note}
+Sair da bolha exige **esforço ativo**: buscar fontes diversas e questionar o que o algoritmo entrega.
+:::
+
+## Autonomia e Escolha
+
+- Até que ponto **escolhemos** o que vemos?
+- O algoritmo **antecipa** e induz escolhas.
+- Autonomia digital é **conhecimento** + **intenção**.
+
+## Como Sair da Bolha?
+
+- **Seguir** fontes variadas e confiáveis.
+- **Checar** informações antes de compartilhar.
+- **Refletir** sobre o tempo de uso das redes.
+
+## Resumo da Aula
+
+- Algoritmos de recomendação moldam o que **vemos**.
+- Filtros-bolha e câmaras de eco **limitam** o debate.
+- Sair da bolha é um **exercício crítico** diário.
+
+## Atividade Rápida
+
+- Abra sua rede social e observe: que tipo de conteúdo **predomina**?
+- Você acha que está em uma **bolha**? Por quê?
+
+## Referências
+
+- PARISER, E. *O filtro invisível*. São Paulo: Zahar.
+- CASTELLS, M. *A sociedade em rede*. São Paulo: Paz e Terra.
+
+## Próxima Aula
+
+- **Aula 10:** Inteligência Artificial — conceitos e aplicações.

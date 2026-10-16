@@ -1,0 +1,60 @@
+---
+title: "Aula 25 — Uberização e Plataformização do Trabalho"
+---
+
+## Objetivos da Aula
+
+- Definir **uberização** e **plataformização**.
+- Entender o papel do **algoritmo** na gestão do trabalho.
+- Refletir sobre **direitos** nessas novas relações.
+
+## O que é Uberização?
+
+- Trabalho **mediado por aplicativos**.
+- O trabalhador é tratado como **"parceiro"**, não empregado.
+- Sem vínculo formal, sem **garantias** trabalhistas.
+
+## Plataformização
+
+- **Plataformas digitais** organizam o trabalho.
+- Elas conectam demanda e **trabalhadores**.
+- Exemplos: entregas, transporte, limpeza, tarefas online.
+
+## Gestão por Algoritmo
+
+- O **algoritmo** distribui tarefas e avalia desempenho.
+- Define preços, rotas e **"notas"** do trabalhador.
+- Não há **chefe humano** — a gestão é automática.
+
+## Como o Trabalhador é Controlado
+
+- **Notas** e avaliações dos clientes.
+- **Metas** e incentivos.
+- Suspensão **automática** por baixo desempenho.
+
+::: {.callout-note}
+"Flexibilidade" de horário pode esconder **jornadas exaustivas** e ausência de **proteção social**.
+:::
+
+## Riscos e Desafios
+
+- Jornadas **longas** sem garantias.
+- Sem **férias, FGTS ou previdência** garantidos.
+- **Riscos** físicos no trabalho.
+- Isolamento e **falta de representação**.
+
+## Debates Atuais
+
+- O vínculo deve ser **reconhecido**?
+- Como **regulamentar** o trabalho por plataformas?
+- Qual o papel dos **sindicatos** e das leis?
+
+## Resumo da Aula
+
+- Uberização e plataformização **mudam** o trabalho.
+- O algoritmo passa a **gerenciar** pessoas.
+- Direitos e proteção são o **centro do debate**.
+
+## Próxima Aula
+
+- **Aula 26:** Precarização e novas formas de gestão.

@@ -1,0 +1,60 @@
+---
+title: "Aula 26 — Precarização e Novas Formas de Gestão"
+---
+
+## Objetivos da Aula
+
+- Compreender o conceito de **precarização** do trabalho.
+- Entender a **gestão algorítmica**.
+- Refletir sobre **saúde** e **direitos** do trabalhador.
+
+## O que é Precarização?
+
+- Perda de **direitos e garantias** do trabalho.
+- Empregos **instáveis**, mal remunerados e sem proteção.
+- Transferência de **riscos** para o trabalhador.
+
+## Como a Precarização Cresce
+
+- Contratos **informais** e temporários.
+- Terceirização e **"pejotização"**.
+- Trabalho por **aplicativos** sem vínculo.
+
+## Gestão Algorítmica
+
+- Decisões sobre trabalho tomadas por **algoritmos**.
+- Ex.: bancos, trens, restaurantes.
+- Vigilância **constante** e avaliação automática.
+
+## Efeitos no Trabalhador
+
+- Insegurança e **medo de perder** a renda.
+- **Adoecimento** mental (ansiedade, esgotamento).
+- Perda de **autonomia** e de voz.
+
+::: {.callout-note}
+Gestão sem **transparência** e sem **diálogo** tende a aumentar a pressão e reduzir a dignidade no trabalho.
+:::
+
+## Novas Formas de Gestão
+
+- Metas automáticas e **gamificação**.
+- Monitoramento em **tempo real**.
+- Avaliações por **clientes** e por algoritmos.
+
+## Caminhos de Proteção
+
+- **Regulamentação** do trabalho digital.
+- **Transparência** dos algoritmos de gestão.
+- Fortalecimento da **representação** coletiva.
+- Saúde e **segurança** no trabalho.
+
+## Resumo da Aula
+
+- Precarização = perda de **direitos** e estabilidade.
+- A **gestão algorítmica** intensifica o controle.
+- É preciso **regulamentar** e proteger o trabalhador.
+
+## Próxima Aula
+
+- **Aula 27:** Documentário "Vidas Entregues" — exibição e debate.

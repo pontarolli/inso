@@ -1,0 +1,62 @@
+---
+title: "Aula 58 — Direitos Humanos e Tecnologia"
+---
+
+## Objetivos da Aula
+
+- Compreender o que são **direitos humanos**.
+- Relacionar tecnologia e **direitos**.
+- Refletir sobre **proteção** no ambiente digital.
+
+## O que são Direitos Humanos?
+
+- Direitos **básicos** de todas as pessoas.
+- Independem de origem, etnia, gênero ou religião.
+- Garantem **dignidade** e liberdade.
+
+## Direitos e Tecnologia
+
+- A tecnologia pode **garantir** direitos (acesso à informação).
+- Também pode **violá-los** (vigilância, discriminação).
+- Precisam ser **protegidos** no ambiente digital.
+
+## Direitos no Mundo Digital
+
+- **Privacidade** e proteção de dados.
+- **Liberdade** de expressão.
+- **Acesso** à informação e à internet.
+- **Não discriminação**.
+
+## Riscos aos Direitos
+
+- **Vigilância** e monitoramento.
+- **Viés** em decisões automatizadas.
+- **Exclusão** digital.
+- Desinformação que **manipula** escolhas.
+
+::: {.callout-note}
+Ter direito **no papel** não basta: é preciso garantir que esses direitos valham também **no ambiente digital**.
+:::
+
+## Educação em Direitos Humanos
+
+- Conhecer os **próprios direitos**.
+- Respeitar os direitos **dos outros**.
+- Reconhecer e **denunciar** violações.
+- Promover a **igualdade**.
+
+## Tecnologia a Serviço dos Direitos
+
+- Ferramentas de **acessibilidade**.
+- Plataformas de **denúncia**.
+- Acesso a **serviços públicos** digitais.
+
+## Resumo da Aula
+
+- Direitos humanos valem **também no digital**.
+- A tecnologia pode **proteger** ou **violar** direitos.
+- Conhecer e defender direitos é **cidadania**.
+
+## Próxima Aula
+
+- **Aula 59:** Consciência Negra e o racismo digital.

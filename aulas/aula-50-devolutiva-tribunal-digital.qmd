@@ -1,0 +1,59 @@
+---
+title: "Aula 50 — Devolutiva do Tribunal Digital"
+---
+
+## Objetivos da Aula
+
+- Avaliar a **atividade do tribunal**.
+- Dar e receber **feedback**.
+- Consolidar os **aprendizados**.
+
+## Retomada da Atividade
+
+- Relembrar o **tema** e as **decisões**.
+- Recordar os **melhores argumentos**.
+- Identificar o que foi **aprendido**.
+
+## Autoavaliação
+
+- Como foi sua **participação**?
+- Você **pesquisou** e **argumentou** bem?
+- O que poderia **melhorar**?
+
+## Feedback do Professor
+
+- **Pontos fortes** dos grupos.
+- **Pontos a melhorar**.
+- Orientações para a **próxima atividade**.
+
+## Avaliação Coletiva
+
+- O debate foi **respeitoso**?
+- Os argumentos tinham **dados**?
+- As **regras** foram cumpridas?
+
+::: {.callout-note}
+A devolutiva transforma a **experiência** em **aprendizado**: sem reflexão, a atividade perde valor.
+:::
+
+## Lições do Tribunal
+
+- IA tem **benefícios e riscos** reais.
+- Decisões sociais exigem **debate**.
+- Argumentar bem exige **conhecimento**.
+
+## Preparação para o Próximo Tema
+
+- Introdução ao **ChatGPT**.
+- Ferramentas de **IA generativa**.
+- Questões **éticas e práticas**.
+
+## Resumo da Aula
+
+- Avaliamos a **atividade do tribunal**.
+- Consolidamos **aprendizados**.
+- Preparamos o tema de **IA generativa**.
+
+## Próxima Aula
+
+- **Aula 51:** ChatGPT — introdução.

@@ -1,0 +1,62 @@
+---
+title: "Aula 56 — Segurança no Mundo Digital"
+---
+
+## Objetivos da Aula
+
+- Compreender os **riscos** digitais.
+- Conhecer **boas práticas** de segurança.
+- Proteger **dados** e **privacidade**.
+
+## Riscos Digitais
+
+- **Golpes** e fraudes online.
+- **Vazamento** de dados.
+- **Roubo** de contas e identidade.
+- **Malware** (vírus) e links falsos.
+
+## Engenharia Social
+
+- Manipulação para **enganar** a vítima.
+- Ex.: e-mails e mensagens **falsas**.
+- Explora **confiança e pressa**, não falhas técnicas.
+
+## Boas Práticas
+
+- **Senhas** fortes e diferentes por conta.
+- **Autenticação em dois fatores**.
+- Não clicar em **links suspeitos**.
+- Manter **sistemas atualizados**.
+
+::: {.callout-note}
+A segurança digital depende mais de **hábitos** do que de ferramentas: o elo mais fraco costuma ser o usuário.
+:::
+
+## Proteção de Dados
+
+- Cuidar dos **dados pessoais**.
+- Ler **políticas de privacidade**.
+- Configurar **privacidade** nas redes.
+- Desconfiar de **pedidos de dados**.
+
+## LGPD
+
+- Lei Geral de **Proteção de Dados** (Brasil).
+- Define **direitos** sobre nossos dados.
+- Obriga empresas a **protegerem** informações.
+
+## Em Sala (Laboratório)
+
+- Configurar **autenticação em dois fatores**.
+- Criar uma **senha forte**.
+- Reconhecer um **e-mail falso**.
+
+## Resumo da Aula
+
+- Há riscos reais no **mundo digital**.
+- **Hábitos** protegem mais que ferramentas.
+- A **LGPD** garante direitos sobre dados.
+
+## Próxima Aula
+
+- **Aula 57:** Cidadania digital e política.

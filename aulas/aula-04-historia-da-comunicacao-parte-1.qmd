@@ -1,0 +1,73 @@
+---
+title: "Aula 04 — História da Comunicação: Parte 1"
+---
+
+## Objetivos da Aula
+
+- Conhecer as **origens** da comunicação humana.
+- Acompanhar a evolução dos **meios de comunicação**.
+- Relacionar cada meio a uma **mudança social**.
+
+## Pré-História: a linguagem
+
+- A **fala** surge como primeiro grande meio de comunicação.
+- Permite **cooperar**, ensinar e transmitir cultura.
+- O conhecimento passa a ser **compartilhado**, não apenas individual.
+
+## A Escrita
+
+- Nasce na **Mesopotâmia** (~3000 a.C.) com a escrita cuneiforme.
+- Surge da necessidade de **registrar** comércio e impostos.
+- Permite armazenar informação **sem depender da memória**.
+
+## Escrita e Sociedade
+
+- Cria a figura do **escriba** e da burocracia.
+- Leva à separação entre **quem escreve** e **quem só recebe**.
+- Conhecimento escrito **dura gerações**.
+
+## A Prensa de Gutenberg
+
+- **Tipos móveis** (~1440) tornam a impressão mais rápida e barata.
+- Livros deixam de ser **privilégio** de poucos.
+- Impulsiona a **difusão do conhecimento** e da leitura.
+
+## Impactos da Prensa
+
+- Reforma religiosa, ciência e imprensa moderna.
+- Padronização de **idiomas** e circulação de ideias.
+- Primeiro grande passo para uma **sociedade da informação**.
+
+::: {.callout-note}
+Cada meio de comunicação **reorganiza** a sociedade: muda quem tem acesso à informação e como o poder se distribui.
+:::
+
+## Linha do Tempo (Parte 1)
+
+| Período | Meio | Impacto |
+|---------|------|---------|
+| Pré-história | Fala | Cooperação e cultura |
+| Antiguidade | Escrita | Registro e burocracia |
+| 1440 | Prensa | Difusão em massa |
+| Século XIX | Telégrafo | Comunicação à distância |
+| Século XX | Rádio e TV | Comunicação de massa |
+
+## Resumo da Aula
+
+- Fala, escrita e prensa **ampliaram** a comunicação.
+- Cada etapa reduziu barreiras de **tempo e espaço**.
+- O acesso à informação **transforma** a sociedade.
+
+## Atividade Rápida
+
+- Escolha um meio da linha do tempo e explique **o que ele mudou**.
+- Compare: **antes e depois** da prensa para a sociedade.
+
+## Referências
+
+- GIDDENS, A.; SUTTON, P. W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.
+- BRIGGS, A.; BURKE, P. *Uma história social da mídia*.
+
+## Próxima Aula
+
+- **Aula 05:** História da comunicação — Parte 2.

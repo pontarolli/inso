@@ -1,0 +1,79 @@
+---
+title: "Aula 05 — História da Comunicação: Parte 2"
+---
+
+## Objetivos da Aula
+
+- Compreender a **comunicação elétrica e eletrônica**.
+- Conhecer o telégrafo, o telefone e a comunicação de massa.
+- Entender o caminho até a **internet**.
+
+## O Telégrafo
+
+- Primeira comunicação por **eletricidade** (século XIX).
+- Código **Morse** transforma letras em pulsos.
+- Mensagens chegam rapidamente a **longas distâncias**.
+
+## O Telefone
+
+- Transmite a **voz** por fios elétricos.
+- Comunicação **direta e bidirecional**.
+- Populariza-se e se torna parte da vida cotidiana.
+
+## Comunicação de Massa
+
+- **Rádio** e **TV** falam para muitos ao mesmo tempo.
+- Um **emissor** central atinge milhões de **receptores**.
+- Surge a **indústria da informação** e da publicidade.
+
+## O Computador
+
+- Máquina de **processar informação**.
+- Evolui de máquinas gigantes a **computadores pessoais**.
+- Combinado à rede, muda toda a comunicação.
+
+## A Internet
+
+- Nasce de projetos militar e científico (**ARPANET**).
+- A **Web** (1990) populariza o acesso.
+- Conexão **global**, interativa e em tempo real.
+
+## Linha do Tempo (Parte 2)
+
+| Ano | Invenção | Impacto |
+|-----|----------|---------|
+| 1837 | Telégrafo | Mensagens a longa distância |
+| 1876 | Telefone | Voz por fio |
+| 1920s | Rádio | Comunicação de massa |
+| 1950s | TV | Imagem em massa |
+| 1990s | Internet/Web | Rede mundial interativa |
+
+::: {.callout-note}
+A internet **não substituiu** os meios anteriores: rádio, TV e telefone passaram a operar **dentro** da rede.
+:::
+
+## De Receptor a Emissor
+
+- Antes: poucos emitem, muitos recebem.
+- Agora: **todos** podem emitir e publicar.
+- Mais liberdade — e mais **desinformação**.
+
+## Resumo da Aula
+
+- Telégrafo, telefone e mídia de massa **encurtaram distâncias**.
+- A internet uniu todos os meios em um só ambiente.
+- Hoje **todos** podem produzir conteúdo.
+
+## Atividade Rápida
+
+- Qual invenção mudou mais o cotidiano? Justifique.
+- Compare a comunicação de massa com a **comunicação em rede**.
+
+## Referências
+
+- BRIGGS, A.; BURKE, P. *Uma história social da mídia*.
+- CASTELLS, M. *A sociedade em rede*. São Paulo: Paz e Terra.
+
+## Próxima Aula
+
+- **Aula 06:** Código Morse — a comunicação codificada.

@@ -1,0 +1,72 @@
+---
+title: "Aula 02 — Tecnologia e Sociedade: Primeiras Reflexões"
+---
+
+## Objetivos da Aula
+
+- Compreender o que é **tecnologia**.
+- Entender a relação de **mão dupla** entre tecnologia e sociedade.
+- Reconhecer exemplos de **transformação social** pela técnica.
+
+## O que é Tecnologia?
+
+- Conjunto de **técnicas, ferramentas e conhecimentos** criados para resolver problemas.
+- Não é só computador: a roda, a escrita e a prensa também são tecnologia.
+- Toda tecnologia nasce de uma **necessidade social**.
+
+## Tecnologia e Sociedade: via de mão dupla
+
+- A sociedade **cria** a tecnologia (demandas, valores, interesses).
+- A tecnologia **transforma** a sociedade (hábitos, trabalho, relações).
+- É um processo **contínuo e recíproco** — um influencia o outro.
+
+## Determinismo Tecnológico
+
+- Ideia de que a tecnologia **determina** sozinha a vida social.
+- Visão **crítica**: a tecnologia é resultado de escolhas humanas.
+- Ela não é neutra: reflete **interesses e valores** de quem a produz.
+
+## Exemplos de Transformação
+
+| Tecnologia | Mudança social |
+|------------|----------------|
+| Escrita | Memória e registros duradouros |
+| Prensa | Difusão do conhecimento |
+| Internet | Comunicação global em tempo real |
+| Smartphone | Convivência e trabalho conectados |
+
+## Tecnologia e Poder
+
+- Quem controla a tecnologia **controla informações**.
+- O acesso desigual cria **exclusão digital**.
+- Nem todos se beneficiam igualmente das inovações.
+
+::: {.callout-note}
+Tecnologia **não é neutra**: cada escolha técnica envolve valores, custos e consequências sociais.
+:::
+
+## Pensando Criticamente
+
+- Que tecnologia você usa **todos os dias**?
+- Ela resolveu algum problema? Criou algum novo?
+- Quem **ganha** e quem **perde** com ela?
+
+## Resumo da Aula
+
+- Tecnologia é **construção social**.
+- Sociedade e tecnologia se **moldam mutuamente**.
+- É preciso analisar seus **impactos e interesses**.
+
+## Atividade Rápida
+
+- Escolha uma tecnologia e liste **dois benefícios** e **dois problemas** sociais.
+- Discuta com um colega: será que ela é **neutra**?
+
+## Referências
+
+- GIDDENS, A.; SUTTON, P. W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.
+- LÉVY, P. *Cibercultura*. São Paulo: Editora 34.
+
+## Próxima Aula
+
+- **Aula 03:** Introdução à comunicação e à sociedade.

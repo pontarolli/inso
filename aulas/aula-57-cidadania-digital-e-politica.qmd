@@ -1,0 +1,65 @@
+---
+title: "Aula 57 — Cidadania Digital e Política"
+---
+
+## Objetivos da Aula
+
+- Compreender o que é **cidadania digital**.
+- Entender o papel das redes na **política**.
+- Refletir sobre **participação** e **democracia**.
+
+## O que é Cidadania?
+
+- Conjunto de **direitos e deveres** de quem vive em sociedade.
+- Envolve **participação** na vida pública.
+- Hoje também se exerce **online**.
+
+## Cidadania Digital
+
+- Usar a tecnologia de forma **responsável**.
+- **Participar**, **reivindicar** e **colaborar**.
+- Conhecer **direitos** e **deveres** no ambiente digital.
+
+## Redes e Participação Política
+
+- **Mobilizações** e campanhas online.
+- **Petições** e abaixo-assinados digitais.
+- Debate público nas **redes sociais**.
+
+## Oportunidades
+
+- Maior **alcance** das causas.
+- **Organização** rápida de grupos.
+- **Voz** para mais pessoas.
+
+## Riscos
+
+- **Desinformação** política.
+- **Manipulação** e robôs.
+- Polarização e **discurso de ódio**.
+
+::: {.callout-note}
+Cidadania digital é **participar com informação**: a mesma rede que mobiliza também pode manipular.
+:::
+
+## Democracia e Tecnologia
+
+- A tecnologia pode **fortalecer** ou **enfraquecer** a democracia.
+- Depende do **uso** e da **regulação**.
+- Educação política é **essencial**.
+
+## Reflexão
+
+- Como você se informa **politicamente**?
+- Você confia nas informações que circulam?
+- Como participar de forma **consciente**?
+
+## Resumo da Aula
+
+- Cidadania digital é **participar com responsabilidade**.
+- As redes **ampliam** e **arriscam** a política.
+- Democracia exige **informação de qualidade**.
+
+## Próxima Aula
+
+- **Aula 58:** Direitos humanos e tecnologia.

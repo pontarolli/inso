@@ -1,0 +1,58 @@
+---
+title: "Aula 29 — Indústria 4.0: Parte 1"
+---
+
+## Objetivos da Aula
+
+- Compreender o que é a **Indústria 4.0**.
+- Conhecer as **revoluções industriais**.
+- Identificar as **tecnologias habilitadoras**.
+
+## As Revoluções Industriais
+
+| Revolução | Marco |
+|-----------|-------|
+| 1ª | Máquina a vapor e mecanização |
+| 2ª | Eletricidade e produção em massa |
+| 3ª | Informática e automação |
+| 4ª | Sistemas ciberfísicos e internet |
+
+## O que é a Indústria 4.0?
+
+- Integração de **máquinas, dados e pessoas**.
+- Fábricas **inteligentes** e conectadas.
+- Produção **flexível** e personalizada.
+
+## Tecnologias Habilitadoras
+
+- **Internet das Coisas (IoT)**.
+- **Big Data** e análise de dados.
+- **Inteligência Artificial**.
+- **Computação em nuvem**.
+- **Robótica** e impressão 3D.
+
+## Sistemas Ciberfísicos
+
+- Máquinas que **comunicam entre si**.
+- Sensores coletam dados em **tempo real**.
+- Decisões **automatizadas** na linha de produção.
+
+::: {.callout-note}
+A Indústria 4.0 **não é só fábrica**: ela conecta produção, dados e serviços em um só sistema.
+:::
+
+## Exemplos Práticos
+
+- Manutenção **preditiva** de máquinas.
+- Rastreamento de produtos **do início ao fim**.
+- Personalização em **massa**.
+
+## Resumo da Aula
+
+- A Indústria 4.0 é a **4ª revolução** industrial.
+- Baseia-se em **conectividade e dados**.
+- Tecnologias-chave: IoT, IA, nuvem e robótica.
+
+## Próxima Aula
+
+- **Aula 30:** Indústria 4.0 — Parte 2.

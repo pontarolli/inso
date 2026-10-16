@@ -1,0 +1,60 @@
+---
+title: "Aula 34 — Diversidade na Internet: Possibilidade ou Problema?"
+---
+
+## Objetivos da Aula
+
+- Debater a diversidade **na internet**.
+- Analisar **argumentos** a favor e contra.
+- Preparar a discussão da **atividade bimestral**.
+
+## A Pergunta Central
+
+- A internet é um espaço de **diversidade**?
+- Ela **amplia** ou **limita** o contato com o diferente?
+- Depende de **quem**, **onde** e **como** usa.
+
+## Argumentos de Possibilidade
+
+- **Acesso** a culturas do mundo inteiro.
+- **Voz** para grupos marginalizados.
+- **Mobilização** por direitos.
+- **Aprendizado** e trocas globais.
+
+## Argumentos de Problema
+
+- **Bolhas** que reforçam o igual.
+- **Preconceito** e discursos de ódio.
+- **Exclusão** de quem não tem acesso.
+- **Padronização** cultural pelas grandes plataformas.
+
+## O Papel do Usuário
+
+- O usuário **escolhe** quem seguir e o que consumir.
+- Mas os **algoritmos** também escolhem.
+- Consciência e **curadoria** fazem diferença.
+
+::: {.callout-note}
+A internet não é **por si** diversa nem homogênea: ela reproduz e amplifica as **escolhas** da sociedade.
+:::
+
+## Preparando o Debate
+
+- Formar **grupos** de argumentação.
+- Levantar **exemplos** e **dados**.
+- Antecipar **contra-argumentos**.
+
+## Reflexão
+
+- Sua internet é **diversa**?
+- O que você poderia fazer para **ampliar** sua diversidade?
+
+## Resumo da Aula
+
+- A diversidade na internet é **ambígua**.
+- Existem bons **argumentos dos dois lados**.
+- O **uso crítico** e a regulação importam.
+
+## Próxima Aula
+
+- **Aula 35:** Laboratório — elaboração da atividade bimestral.

@@ -1,0 +1,60 @@
+---
+title: "Aula 45 — Fake News e a Era da Pós-Verdade: Parte 1"
+---
+
+## Objetivos da Aula
+
+- Compreender o que são **fake news**.
+- Entender o conceito de **pós-verdade**.
+- Reconhecer **tipos** de desinformação.
+
+## O que são Fake News?
+
+- **Notícias falsas** apresentadas como verdadeiras.
+- Circulam rapidamente nas **redes sociais**.
+- Podem ser criadas por **interesse** ou por engano.
+
+## Pós-Verdade
+
+- Cenário em que **emoções e crenças** pesam mais que os fatos.
+- As pessoas **acreditam** no que confirma sua visão.
+- A verdade objetiva perde **importância**.
+
+## Tipos de Desinformação
+
+- **Desinformação:** falsa intencional.
+- **Informação errada:** falsa sem intenção.
+- **Informação maliciosa:** vazada para prejudicar.
+
+## Como as Fake News se Espalham
+
+- Apelo **emocional** forte.
+- Títulos **sensacionalistas**.
+- Compartilhamento **em massa**.
+- Algoritmos que **premiram** o engajamento.
+
+::: {.callout-note}
+Mentiras **emocionantes** se espalham mais rápido que verdades **complexas** — por isso a checagem é essencial.
+:::
+
+## Consequências
+
+- **Confusão** e desconfiança.
+- Perigo à **saúde** e à **democracia**.
+- **Polarização** social.
+
+## Por que Acreditamos?
+
+- **Viés de confirmação**: gostamos do que confirma nossa opinião.
+- Repetição: o que se repete parece **verdadeiro**.
+- Pressa: ninguém quer "ficar por fora".
+
+## Resumo da Aula
+
+- Fake news são **notícias falsas**.
+- A **pós-verdade** valoriza emoção sobre fato.
+- Espalham-se por **emoção e algoritmo**.
+
+## Próxima Aula
+
+- **Aula 46:** Fake news e a era da pós-verdade — Parte 2.

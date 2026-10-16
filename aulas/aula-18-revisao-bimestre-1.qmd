@@ -1,0 +1,68 @@
+---
+title: "Aula 18 — Síntese e Revisão do 1º Bimestre"
+---
+
+## Objetivos da Aula
+
+- **Revisar** os principais conceitos do bimestre.
+- **Organizar** o estudo para a avaliação.
+- Esclarecer **dúvidas** antes das provas.
+
+## O que Estudamos no 1º Bimestre
+
+- Tecnologia e sociedade.
+- Comunicação e sua história.
+- Sociedade da Informação.
+- Algoritmos e Inteligência Artificial.
+- Ética e IA.
+
+## Tecnologia e Sociedade
+
+- Tecnologia é **construção social**.
+- Relação de **mão dupla**: sociedade ↔ tecnologia.
+- Não é **neutra**: envolve valores e interesses.
+
+## Comunicação
+
+- Base da **vida social**.
+- Elementos: emissor, mensagem, canal, receptor, código, contexto.
+- Da fala à comunicação **em rede**.
+
+## Sociedade da Informação
+
+- A **informação** é o principal recurso.
+- Informática **transforma** trabalho e cultura.
+- Desafio central: **exclusão digital**.
+
+## Algoritmos e IA
+
+- Algoritmo = **sequência de passos**.
+- Recomendação, filtros-bolha e câmaras de eco.
+- IA aprende com **dados**; é **estreita**, não consciente.
+
+::: {.callout-note}
+Revisar não é **decorar**: é **reconectar** as ideias e saber **explicá-las** com suas palavras.
+:::
+
+## Ética e IA
+
+- Ética avalia **o que é certo e justo**.
+- Dilemas: **viés, privacidade, transparência, responsabilidade**.
+- Soluções: **regras, educação e uso responsável**.
+
+## Como se Preparar
+
+- Reler o **resumo** de cada aula.
+- Refazer as **atividades rápidas**.
+- Fazer **resumos** com suas palavras.
+- Tirar **dúvidas** com o professor.
+
+## Resumo da Aula
+
+- O bimestre uniu **sociedade, comunicação, algoritmos e IA**.
+- Os temas se **conectam** entre si.
+- A revisão organiza o **estudo** para a avaliação.
+
+## Próxima Aula
+
+- **Aula 19:** Devolutiva dos trabalhos e feedback.

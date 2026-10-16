@@ -1,0 +1,83 @@
+---
+title: "Aula 01 — Apresentação da Disciplina"
+---
+
+## Bem-vindos!
+
+- **Disciplina:** Informática e Sociedade (INSO).
+- **Curso:** Técnico em Redes de Computadores Integrado ao Ensino Médio.
+- **Carga horária:** 60h — 2 aulas por semana.
+- **Professores:** Agnes Cruz de Souza · Andre Luyde da Silva Souza · Ricardo Pontarolli.
+
+## Do que trata esta disciplina?
+
+- Relação entre **tecnologia e sociedade**.
+- Como a informática **transforma** a vida social, o trabalho e a cultura.
+- Impactos das **redes, algoritmos e inteligência artificial**.
+- Debates sobre **ética, diversidade e cidadania** no mundo digital.
+
+## Por que estudar isso?
+
+- Vivemos cercados por tecnologia — é preciso **compreendê-la criticamente**.
+- Profissionais de redes tomam decisões que **afetam pessoas**.
+- Entender o contexto social torna o trabalho técnico **mais responsável**.
+
+## Ementa (visão geral)
+
+- Tecnologia e sociedade; pesquisa social e inovação.
+- Sociedade da Informação; Indústria 4.0.
+- Transformações no mundo do trabalho.
+- Cultura, diversidade e tecnologia.
+- Política, cidadania, direitos humanos e ética digital.
+
+## Metodologia
+
+- **Aulas dialogadas** com projeção multimídia.
+- **Vídeos e documentários** seguidos de debate.
+- **Atividades práticas** no laboratório de informática.
+- **Trabalhos em grupo** com apresentação e devolutiva.
+
+## Avaliação
+
+- Avaliações e atividades **bimestrais** (2 por bimestre).
+- Atividades **individuais e em grupo** ao longo do bimestre.
+- **Média** = soma aritmética de todas as atividades.
+- Recuperação contínua e reavaliação quando necessário.
+
+::: {.callout-note}
+A disciplina é **articuladora**: conecta os conhecimentos de Sociologia à formação técnica em Redes de Computadores.
+:::
+
+## Expectativas
+
+- **Participação** nas discussões — sua opinião importa.
+- **Respeito** às diferentes visões e experiências.
+- **Curiosidade**: pergunte, pesquise e questione.
+- Entrega das atividades **no prazo**.
+
+## Combinados da Turma
+
+- Uso do celular apenas quando indicado para a atividade.
+- Fala um de cada vez; escuta ativa.
+- Trabalho em grupo exige **divisão justa** de tarefas.
+
+## Resumo da Aula
+
+- A disciplina analisa os **impactos sociais da tecnologia**.
+- Seremos técnicos **e** cidadãos conscientes.
+- Vamos unir **Sociologia** e **Redes de Computadores**.
+
+## Atividade Inicial
+
+- Escreva **três tecnologias** que mudaram sua vida.
+- Para cada uma, aponte um **benefício** e um **problema**.
+- Compartilhe com a turma.
+
+## Referências
+
+- GIDDENS, A.; SUTTON, P. W. *Sociologia*. 6. ed. Porto Alegre: Penso, 2012.
+- LEMOS, R.; DI FELICE, M. *A vida em rede*. Campinas: Papirus 7 Mares, 2019.
+
+## Próxima Aula
+
+- **Aula 02:** Tecnologia e sociedade — primeiras reflexões.
