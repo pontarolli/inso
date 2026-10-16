@@ -1,0 +1,63 @@
+---
+title: "Aula 26 — Transformações no Mundo do Trabalho"
+---
+
+## Objetivos da Aula
+
+- Compreender como a **tecnologia transforma o trabalho**.
+- Conhecer **formas antigas e novas** de trabalhar.
+- Refletir sobre **direitos e condições** de trabalho.
+
+## O Trabalho ao Longo do Tempo
+
+- Sociedade **agrícola:** trabalho no campo.
+- Revolução **industrial:** fábricas e operários.
+- Sociedade da **informação:** serviços e conhecimento.
+
+## O Que a Tecnologia Muda
+
+- Cria **novas profissões** e elimina outras.
+- Automatiza tarefas **repetitivas**.
+- Exige **novas habilidades** (digitais).
+
+## Trabalho e Automação
+
+- Máquinas e robôs assumem tarefas **rotineiras**.
+- Cresce a demanda por **criatividade** e análise.
+- Aprendizado **contínuo** vira necessidade.
+
+## Novas Formas de Trabalho
+
+- **Remoto** e híbrido.
+- Trabalho por **aplicativos e plataformas**.
+- **Freelancer** e empreendedorismo digital.
+
+## Antigas x Novas Formas
+
+| Antes | Agora |
+|-------|-------|
+| Carteira, horário fixo | Contratos flexíveis |
+| Local fixo | Trabalho remoto |
+| Uma carreira | Vários trabalhos |
+| Chefia direta | Mediação por algoritmo |
+
+::: {.callout-note}
+Nem toda mudança é progresso: é preciso avaliar se **direitos e proteções** acompanham as novas formas de trabalho.
+:::
+
+## Direitos em Jogo
+
+- Salário, jornada e **descanso**.
+- **Segurança** e saúde do trabalhador.
+- Proteção social (previdência, auxílio).
+- **Representação** coletiva.
+
+## Resumo da Aula
+
+- A tecnologia **recria** o mundo do trabalho.
+- Surgem novas profissões e novas formas de contratar.
+- Direitos e proteções precisam **acompanhar**.
+
+## Próxima Aula
+
+- **Aula 25:** Uberização e plataformização do trabalho.

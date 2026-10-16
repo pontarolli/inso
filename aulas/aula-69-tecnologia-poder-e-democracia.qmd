@@ -1,0 +1,60 @@
+---
+title: "Aula 69 — Tecnologia, Poder e Democracia"
+---
+
+## Objetivos da Aula
+
+- Compreender a relação entre **poder e tecnologia**.
+- Analisar impactos na **democracia**.
+- Refletir sobre **controle** e **liberdade**.
+
+## Poder e Tecnologia
+
+- Quem **domina a tecnologia** domina informação.
+- Grandes empresas (**big techs**) detêm poder imenso.
+- Dados se tornam **fonte de poder**.
+
+## Concentração de Poder
+
+- Poucas empresas controlam **plataformas**.
+- Dominam atenção, dados e **publicidade**.
+- Impactam a **economia** e a **política**.
+
+## Tecnologia e Democracia
+
+- Redes **ampliam** a participação.
+- Mas também espalham **desinformação**.
+- Podem **manipular** o debate e as eleições.
+
+## Vigilância
+
+- Coleta massiva de **dados**.
+- Monitoramento de **comportamento**.
+- Riscos à **privacidade** e à liberdade.
+
+::: {.callout-note}
+Vigilância e concentração de dados podem criar **formas novas de controle** — é preciso debate público.
+:::
+
+## Regulação
+
+- Leis de **proteção de dados**.
+- Regras de **concorrência**.
+- **Transparência** dos algoritmos.
+- Combate à **desinformação**.
+
+## Liberdade e Responsabilidade
+
+- Liberdade de expressão é **direito**.
+- Limites: **ódio, ameaça e fraude**.
+- Equilíbrio entre **liberdade e proteção**.
+
+## Resumo da Aula
+
+- Tecnologia implica **poder**.
+- Big techs concentram **dados e influência**.
+- Democracia exige **regulação e transparência**.
+
+## Próxima Aula
+
+- **Aula 64:** Laboratório — jogo do "apocalipse" (preparação).

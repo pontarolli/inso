@@ -1,0 +1,60 @@
+---
+title: "Aula 55 — ChatGPT: Introdução"
+---
+
+## Objetivos da Aula
+
+- Compreender o que é o **ChatGPT**.
+- Entender a ideia de **IA generativa**.
+- Conhecer a **história** das ferramentas de conversa com IA.
+
+## O que é o ChatGPT?
+
+- Ferramenta de **conversa** com Inteligência Artificial.
+- Desenvolvida pela empresa **OpenAI**.
+- Responde a perguntas, textos e **comandos** (prompts).
+
+## IA Generativa
+
+- IA capaz de **criar** conteúdo novo.
+- Textos, imagens, músicas, códigos.
+- Baseada em modelos de linguagem **treinados** com enormes volumes de texto.
+
+## Como Funciona (simplificado)
+
+- Aprende **padrões** em textos da internet.
+- **Prevê** a próxima palavra mais provável.
+- Gera respostas **plausíveis**, não necessariamente **verdadeiras**.
+
+## Antes do ChatGPT
+
+- Assistentes de voz e chatbots simples.
+- Tradução automática.
+- Busca na internet.
+
+::: {.callout-note}
+O ChatGPT **não "entende"** como uma pessoa: ele gera texto **estatisticamente provável** a partir de padrões.
+:::
+
+## O que Ele Pode Fazer
+
+- **Responder** perguntas.
+- **Resumir** e **traduzir** textos.
+- **Ajudar** a escrever e a estudar.
+- **Auxiliar** na programação.
+
+## O que Ele Não É
+
+- **Não** é fonte de verdade garantida.
+- **Não** substitui o estudo.
+- **Não** tem consciência nem sentimentos.
+
+## Resumo da Aula
+
+- O ChatGPT é uma ferramenta de **IA generativa**.
+- Gera texto por **padrões**, não por entendimento.
+- É útil, mas **não infalível**.
+
+## Próxima Aula
+
+- **Aula 52:** ChatGPT — funções e aplicações.

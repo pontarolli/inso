@@ -1,0 +1,62 @@
+---
+title: "Aula 50 — Fake News e a Era da Pós-Verdade: Parte 2"
+---
+
+## Objetivos da Aula
+
+- Analisar **casos concretos** de desinformação.
+- Discutir o papel das **plataformas**.
+- Refletir sobre **responsabilidade** de todos.
+
+## Casos Reais
+
+- Notícias falsas sobre **saúde e vacinas**.
+- Boatos de **violência** que geram pânico.
+- Desinformação **política** em eleições.
+
+## Análise de um Caso
+
+- **Origem:** de onde partiu?
+- **Motivação:** quem lucra com isso?
+- **Canal:** por onde se espalhou?
+- **Efeito:** que consequências trouxe?
+
+## O Papel das Plataformas
+
+- Algoritmos **favorecem** o engajamento.
+- **Moderação** de conteúdo é difícil.
+- Tensão entre **liberdade** e **proteção**.
+
+::: {.callout-note}
+Não existe "só publicar e pronto": cada compartilhamento torna **você** parte da difusão da informação.
+:::
+
+## Combate à Desinformação
+
+- Agências de **checagem**.
+- **Educação midiática** nas escolas.
+- **Regulação** responsável.
+- **Responsabilidade** individual.
+
+## O Cidadão Digital
+
+- **Verificar** antes de compartilhar.
+- Ser **cético** com o que emociona demais.
+- Buscar **fontes** primárias.
+- Reportar **conteúdo falso**.
+
+## Atividade de Análise
+
+- O professor apresenta **manchetes verdadeiras e falsas**.
+- Em duplas, **classifiquem** e justifiquem.
+- Discutam **como** confirmaram.
+
+## Resumo da Aula
+
+- Fake news têm **origem, canal e efeitos** analisáveis.
+- Plataformas e usuários **cocompartilham** a responsabilidade.
+- Combate-se com **checagem e educação**.
+
+## Próxima Aula
+
+- **Aula 47:** Checagem de fatos e verificação de informação.

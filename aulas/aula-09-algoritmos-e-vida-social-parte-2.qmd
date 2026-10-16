@@ -1,5 +1,5 @@
 ---
-title: "Aula 09 — Algoritmos e a Vida Social: Parte 2"
+title: "Aula 9 — Algoritmos e a Vida Social: Parte 2"
 ---
 
 ## Objetivos da Aula

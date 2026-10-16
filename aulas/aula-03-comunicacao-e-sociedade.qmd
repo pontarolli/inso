@@ -1,5 +1,5 @@
 ---
-title: "Aula 03 — Introdução à Comunicação e à Sociedade"
+title: "Aula 3 — Introdução à Comunicação e à Sociedade"
 ---
 
 ## Objetivos da Aula

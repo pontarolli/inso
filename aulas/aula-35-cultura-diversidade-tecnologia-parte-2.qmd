@@ -1,0 +1,59 @@
+---
+title: "Aula 35 — Cultura, Diversidade e Tecnologia: Parte 2"
+---
+
+## Objetivos da Aula
+
+- Analisar como a **tecnologia** representa a diversidade.
+- Discutir **inclusão e exclusão** cultural nas redes.
+- Refletir sobre **representatividade**.
+
+## Tecnologia e Representação
+
+- As redes **mostram** e **silenciam** grupos.
+- O que aparece nos feeds **não é o mundo todo**.
+- Quem produz conteúdo define o que é **visível**.
+
+## Inclusão Cultural
+
+- Plataformas **democratizam** a produção de conteúdo.
+- Vozes antes invisíveis ganham **alcance**.
+- Cultura popular e periférica encontram **espaço**.
+
+## Exclusão Cultural
+
+- Grupos sem acesso ficam **fora** do digital.
+- **Preconceitos** se reproduzem nos algoritmos.
+- Discursos de ódio atingem **minorias**.
+
+::: {.callout-note}
+Incluir não é apenas dar acesso à conexão: é garantir **representação** e **respeito** no ambiente digital.
+:::
+
+## Representatividade
+
+- Ver-se **representado** fortalece a identidade.
+- A **falta** de representação gera invisibilidade.
+- Consumir mídia **diversa** amplia a compreensão.
+
+## Internet: Possibilidade ou Problema?
+
+- **Possibilidade:** voz, encontros, mobilização.
+- **Problema:** ódio, exclusão, desinformação.
+- A resposta depende de **como** usamos e **regulamos**.
+
+## Reflexão Crítica
+
+- Quem **produz** o conteúdo que você consome?
+- Que grupos **aparecem** e quais **somem**?
+- Como ampliar **vozes diversos**?
+
+## Resumo da Aula
+
+- A tecnologia **visibiliza** e **silencia** culturas.
+- Há inclusão e exclusão cultural no digital.
+- **Representatividade** é parte da justiça social.
+
+## Próxima Aula
+
+- **Aula 34:** Diversidade na internet — possibilidade ou problema?

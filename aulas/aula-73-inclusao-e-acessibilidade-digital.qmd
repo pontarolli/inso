@@ -1,0 +1,66 @@
+---
+title: "Aula 73 — Inclusão e Acessibilidade Digital"
+---
+
+## Objetivos da Aula
+
+- Compreender **inclusão e acessibilidade** digital.
+- Conhecer **tecnologias assistivas**.
+- Refletir sobre **direito de acesso** para todos.
+
+## Inclusão Digital
+
+- Garantir **acesso** à tecnologia e à internet.
+- Envolve **dispositivos**, conexão e **capacitação**.
+- É condição para a **cidadania** no século XXI.
+
+## Acessibilidade
+
+- Tornar a tecnologia **utilizável por todos**.
+- Inclui pessoas com **deficiência**.
+- Envolve **design** e recursos de apoio.
+
+## Tipos de Deficiência
+
+- Visual, auditiva, física, intelectual.
+- Cada uma exige **soluções diferentes**.
+- A acessibilidade deve atender **todas**.
+
+## Tecnologias Assistivas
+
+- **Leitores de tela** para cegos.
+- **Legendas** e transcrições para surdos.
+- **Teclados adaptados** e comandos por voz.
+- **Ajustes** de contraste e tamanho de texto.
+
+::: {.callout-note}
+Acessibilidade **beneficia todos**: legendas, por exemplo, ajudam também quem não tem deficiência auditiva.
+:::
+
+## Barreiras Digitais
+
+- Sites sem **acessibilidade**.
+- Falta de **legendas** e de contraste.
+- Custos altos de **tecnologia assistiva**.
+- Falta de **formação** e informação.
+
+## Inclusão e Direitos
+
+- Acesso é um **direito**.
+- Leis garantem **acessibilidade** digital.
+- Sociedades inclusivas são mais **justas**.
+
+## Reflexão
+
+- Quais **barreiras** você percebe ao seu redor?
+- Como tornar **seu** conteúdo mais acessível?
+
+## Resumo da Aula
+
+- Inclusão digital é **direito**.
+- Acessibilidade atende **todas as pessoas**.
+- A tecnologia deve **incluir**, não excluir.
+
+## Próxima Aula
+
+- **Aula 68:** Empreendedorismo e inovação social.

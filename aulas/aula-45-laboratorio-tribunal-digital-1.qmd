@@ -1,0 +1,61 @@
+---
+title: "Aula 45 — Laboratório: Pesquisa para o Tribunal Digital (1)"
+---
+
+## Objetivos da Aula
+
+- Compreender a proposta do **tribunal digital**.
+- **Pesquisar** sobre IA e questões contemporâneas.
+- Organizar a **argumentação** para o júri.
+
+## O que é o Tribunal Digital?
+
+- Atividade **bimestral** em forma de **júri**.
+- **Defesa** e **acusação** debatem um tema.
+- Tema: ferramentas de **Inteligência Artificial** e questões contemporâneas.
+
+## O Tema
+
+- A IA e suas **consequências** na sociedade.
+- Exemplos: trabalho, privacidade, viés, educação, fake news.
+- A turma definirá as **questões específicas**.
+
+## Papéis
+
+- **Acusação:** aponta riscos e problemas.
+- **Defesa:** aponta benefícios e usos positivos.
+- **Júri:** avalia argumentos e decide.
+- **Juiz:** coordena e garante a ordem.
+
+## Pesquisando
+
+- Buscar **dados e exemplos** reais.
+- Usar **fontes confiáveis**.
+- Antecipar os **argumentos da outra parte**.
+
+::: {.callout-note}
+Vencer um debate exige **conhecer** também os argumentos do outro lado — a melhor defesa é a **antecipação**.
+:::
+
+## Estruturando os Argumentos
+
+- **Afirmação** clara.
+- **Justificativa** com dados.
+- **Evidência** (exemplo, pesquisa).
+- **Conclusão**.
+
+## Produto da Aula
+
+- Tema do grupo **delimitado**.
+- Ao menos **três argumentos** com fontes.
+- Divisão de **papéis** definida.
+
+## Resumo da Aula
+
+- Iniciamos a preparação do **tribunal digital**.
+- Cada grupo **pesquisa** seu lado.
+- Argumentos precisam de **dados e fontes**.
+
+## Próxima Aula
+
+- **Aula 42:** Laboratório — pesquisa para o tribunal digital (2).

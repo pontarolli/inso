@@ -1,5 +1,5 @@
 ---
-title: "Aula 06 — Código Morse: a Comunicação Codificada (Atividade)"
+title: "Aula 6 — Código Morse: a Comunicação Codificada (Atividade)"
 ---
 
 ## Objetivos da Aula
