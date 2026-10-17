@@ -60,4 +60,4 @@ Nem toda mudança é progresso: é preciso avaliar se **direitos e proteções**
 
 ## Próxima Aula
 
-- **Aula 25:** Uberização e plataformização do trabalho.
+- **Aula 27:** Uberização e plataformização do trabalho.

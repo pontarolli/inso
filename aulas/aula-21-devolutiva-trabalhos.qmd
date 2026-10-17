@@ -57,4 +57,4 @@ Quem aprende com o **erro** evolui mais rápido. A devolutiva é uma **oportunid
 
 ## Próxima Aula
 
-- **Aula 20:** Consequências do uso de tecnologias — nomofobia.
+- **Aula 22:** Consequências do uso de tecnologias — nomofobia.

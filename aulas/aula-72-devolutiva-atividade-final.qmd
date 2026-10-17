@@ -57,4 +57,4 @@ Refletir sobre a experiência **fixa o aprendizado**: o jogo só ensina de verda
 
 ## Próxima Aula
 
-- **Aula 67:** Inclusão e acessibilidade digital.
+- **Aula 73:** Inclusão e acessibilidade digital.

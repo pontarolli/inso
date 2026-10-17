@@ -56,4 +56,4 @@ A devolutiva transforma a **experiência** em **aprendizado**: sem reflexão, a 
 
 ## Próxima Aula
 
-- **Aula 51:** ChatGPT — introdução.
+- **Aula 55:** ChatGPT — introdução.

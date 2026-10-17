@@ -57,4 +57,4 @@ O que vemos nas redes é uma **vitrine editada**. Comparar-se a essa vitrine é 
 
 ## Próxima Aula
 
-- **Aula 39:** Deepfakes e manipulação de imagens.
+- **Aula 43:** Deepfakes e manipulação de imagens.

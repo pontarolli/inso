@@ -55,4 +55,4 @@ A Indústria 4.0 **não é só fábrica**: ela conecta produção, dados e servi
 
 ## Próxima Aula
 
-- **Aula 30:** Indústria 4.0 — Parte 2.
+- **Aula 32:** Indústria 4.0 — Parte 2.

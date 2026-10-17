@@ -59,4 +59,4 @@ A IA devolve o que você pede: **prompt** ruim, resposta ruim. Saber perguntar �
 
 ## Próxima Aula
 
-- **Aula 53:** IA generativa — riscos e limitações.
+- **Aula 57:** IA generativa — riscos e limitações.

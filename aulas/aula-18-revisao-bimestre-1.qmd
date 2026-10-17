@@ -65,4 +65,4 @@ Revisar não é **decorar**: é **reconectar** as ideias e saber **explicá-las*
 
 ## Próxima Aula
 
-- **Aula 19:** Devolutiva dos trabalhos e feedback.
+- **Aula 21:** Devolutiva dos trabalhos e feedback.

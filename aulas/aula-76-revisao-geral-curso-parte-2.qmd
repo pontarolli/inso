@@ -63,4 +63,4 @@ O fio condutor do ano: tecnologia **não é neutra** — ela reflete e transform
 
 ## Próxima Aula
 
-- **Aula 71:** Recuperação e reavaliação.
+- **Aula 77:** Recuperação e reavaliação.

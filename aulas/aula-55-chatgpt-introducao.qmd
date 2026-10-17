@@ -57,4 +57,4 @@ O ChatGPT **não "entende"** como uma pessoa: ele gera texto **estatisticamente 
 
 ## Próxima Aula
 
-- **Aula 52:** ChatGPT — funções e aplicações.
+- **Aula 56:** ChatGPT — funções e aplicações.

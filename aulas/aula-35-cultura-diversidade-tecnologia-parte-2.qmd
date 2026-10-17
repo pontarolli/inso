@@ -56,4 +56,4 @@ Incluir não é apenas dar acesso à conexão: é garantir **representação** e
 
 ## Próxima Aula
 
-- **Aula 34:** Diversidade na internet — possibilidade ou problema?
+- **Aula 36:** Diversidade na internet — possibilidade ou problema?

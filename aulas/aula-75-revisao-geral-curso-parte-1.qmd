@@ -59,4 +59,4 @@ Revisar é **reconstruir o percurso**: entender como os temas se **conectam** ao
 
 ## Próxima Aula
 
-- **Aula 70:** Revisão geral do curso — Parte 2.
+- **Aula 76:** Revisão geral do curso — Parte 2.

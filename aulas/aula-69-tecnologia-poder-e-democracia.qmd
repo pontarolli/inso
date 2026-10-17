@@ -57,4 +57,4 @@ Vigilância e concentração de dados podem criar **formas novas de controle** �
 
 ## Próxima Aula
 
-- **Aula 64:** Laboratório — jogo do "apocalipse" (preparação).
+- **Aula 70:** Laboratório — jogo do "apocalipse" (preparação).
