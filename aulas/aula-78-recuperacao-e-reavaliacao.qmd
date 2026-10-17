@@ -1,0 +1,55 @@
+---
+title: "Aula 78 — Recuperação e Reavaliação"
+---
+
+## Oportunidades Finais
+
+- Você já construiu **muito** ao longo do ano.
+- Vamos usar esta aula para **retomar** o que ficou em dúvida.
+
+## Objetivos da Aula
+
+- **Rever** conteúdos com maior dificuldade.
+- Esclarecer **dúvidas** finais.
+- Preparar-se para a **reavaliação**.
+
+## Temas que Costumam Gerar Dúvida
+
+- Diferença entre **dado, informação e conhecimento**.
+- **Algoritmos** e **IAs**: como decidem.
+- **Poder** e **cidadania digital**.
+- **Ética** e **diversidade**.
+
+::: {.callout-note}
+A recuperação não é castigo: é uma **chance real** de consolidar o aprendizado. Aproveite as últimas aulas para perguntar sem receio.
+:::
+
+## Como Estudar para a Reavaliação
+
+- Releia os **resumos** de cada aula.
+- Refazer as **atividades rápidas**.
+- Montar **esquemas** com suas próprias palavras.
+- Formar **grupos de estudo**.
+
+## Critérios de Avaliação
+
+- Compreensão dos **conceitos-chave**.
+- Capacidade de **argumentar** com exemplos.
+- **Clareza** na exposição de ideias.
+
+## Ética, Sociedade e Cidadania: Síntese Final
+
+- A tecnologia **amplia** possibilidades e riscos.
+- Cidadania digital é **participar** com responsabilidade.
+- Nossa **diversidade** é uma força.
+- A **ética** deve guiar nossas escolhas.
+
+## Resumo da Aula
+
+- Retomamos os pontos **essenciais** do ano.
+- Organizamos o estudo para a **reavaliação**.
+- Você tem **apoio** para vencer as dificuldades.
+
+## Próxima Aula
+
+- **Aula 79:** Encerramento do ano letivo.

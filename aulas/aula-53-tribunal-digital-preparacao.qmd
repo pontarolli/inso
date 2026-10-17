@@ -1,0 +1,63 @@
+---
+title: "Aula 53 — Tribunal Digital: Preparação (Defesa e Acusação)"
+---
+
+## Objetivos da Aula
+
+- **Preparar** as equipes para o júri.
+- Estruturar **argumentos** de defesa e acusação.
+- Organizar **réplicas e tréplicas**.
+
+## O Formato do Júri
+
+- **Acusação** apresenta seus argumentos.
+- **Defesa** responde e apresenta os seus.
+- **Réplica** e **tréplica**.
+- **Júri** delibera ao final.
+
+## Definindo os Papéis
+
+- Grupo **acusação**.
+- Grupo **defesa**.
+- **Júri** e **juiz/moderador**.
+- **Roteiro** de falas.
+
+## Estrutura do Argumento
+
+- **Tese** clara.
+- **Fundamentação** com dados.
+- **Exemplos** concretos.
+- **Refutação** dos argumentos contrários.
+
+## Preparando a Réplica
+
+- **Ouvir** o argumento do outro lado.
+- Identificar **pontos fracos**.
+- Responder com **dados**, sem ataques pessoais.
+
+::: {.callout-note}
+Debater é **convencer pela razão**, não pela força da voz. Respeito e dados valem mais que emoção vazia.
+:::
+
+## Regras e Ética
+
+- Nada de **agressão pessoal**.
+- Cada fala tem **tempo** definido.
+- O **juiz** garante a ordem.
+- A decisão do júri deve ser **justificada**.
+
+## Ensaio Geral
+
+- Simulação completa do **júri**.
+- Ajuste de **tempo** e clareza.
+- Correção de **últimos detalhes**.
+
+## Resumo da Aula
+
+- Preparamos **acusação e defesa**.
+- Argumentos precisam de **dados e refutação**.
+- O júri exige **respeito** e organização.
+
+## Próxima Aula
+
+- **Aula 54:** Tribunal digital — júri e apresentação.

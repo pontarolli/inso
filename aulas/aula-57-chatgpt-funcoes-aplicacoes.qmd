@@ -1,0 +1,62 @@
+---
+title: "Aula 57 — ChatGPT: Funções e Aplicações"
+---
+
+## Objetivos da Aula
+
+- Conhecer **aplicações** do ChatGPT.
+- Aprender a escrever bons **prompts**.
+- Refletir sobre **uso responsável** nos estudos.
+
+## Aplicações no Estudo
+
+- **Explicar** conceitos difíceis.
+- **Resumir** textos longos.
+- **Gerar** perguntas e exercícios.
+- **Revisar** textos.
+
+## Aplicações no Cotidiano
+
+- **Tradução** e escrita.
+- **Receitas, roteiros e planejamento**.
+- **Programação** e resolução de problemas.
+
+## O que é um Prompt?
+
+- É o **comando** dado à IA.
+- Um bom prompt é **claro e específico**.
+- Define **contexto, formato e objetivo**.
+
+## Como Escrever Bons Prompts
+
+- Explique **o contexto**.
+- Peça **formato** específico (lista, tabela).
+- Informe o **público-alvo**.
+- Divida tarefas **complexas** em partes.
+
+::: {.callout-note}
+A IA devolve o que você pede: **prompt** ruim, resposta ruim. Saber perguntar é uma **habilidade**.
+:::
+
+## Uso Responsável
+
+- **Não** entregar texto da IA como seu.
+- **Verificar** informações importantes.
+- Citar quando usar **apoio** da ferramenta.
+- Manter o **próprio pensamento** ativo.
+
+## Prática
+
+- Escreva **três prompts** para estudar um tema.
+- Compare as respostas.
+- Avalie a **qualidade** e o que melhorar.
+
+## Resumo da Aula
+
+- O ChatGPT tem **muitas aplicações**.
+- Bons **prompts** geram boas respostas.
+- O uso responsável exige **verificação e autoria**.
+
+## Próxima Aula
+
+- **Aula 58:** IA generativa — riscos e limitações.

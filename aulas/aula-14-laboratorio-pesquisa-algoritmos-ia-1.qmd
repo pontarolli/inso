@@ -1,0 +1,59 @@
+---
+title: "Aula 14 — Laboratório: Pesquisa sobre Algoritmos e IA (1)"
+---
+
+## Objetivos da Aula
+
+- **Pesquisar** em fontes confiáveis sobre algoritmos e IA.
+- Organizar informações e **referências**.
+- Iniciar a **produção** do trabalho em grupo.
+
+## Aula de Hoje
+
+- Aula **prática no laboratório de informática**.
+- Pesquisa em grupos sobre **algoritmos e IA**.
+- Preparação do material para **apresentação**.
+
+## Definindo o Tema
+
+- Escolha **um aspecto** dos algoritmos e IA.
+- Exemplos: bolhas, viés, privacidade, trabalho, IA na saúde.
+- O tema deve ser **específico** e **investigável**.
+
+## Buscando Fontes Confiáveis
+
+- Sites de **universidades**, órgãos oficiais e revistas científicas.
+- Comparar a **mesma informação** em mais de uma fonte.
+- Registrar **autor, data e endereço** da fonte.
+
+## O que Evitar
+
+- Sites sem autoria nem data.
+- Informação só de **redes sociais**.
+- Dados sem **origem** comprovada.
+
+::: {.callout-note}
+Uma boa pesquisa **cita a fonte**: sem referência, não há credibilidade.
+:::
+
+## Organização do Grupo
+
+- Definir **papéis**: pesquisa, redação, apresentação, tempo.
+- Combinar **prazos internos**.
+- Registrar as decisões para a próxima aula.
+
+## Produto da Aula
+
+- Tema **definido**.
+- Ao menos **três fontes** confiáveis anotadas.
+- Um **esboço** do que será apresentado.
+
+## Resumo da Aula
+
+- Pesquisar exige **fontes confiáveis**.
+- O tema precisa ser **específico**.
+- O grupo organiza **papéis e prazos**.
+
+## Próxima Aula
+
+- **Aula 15:** Laboratório — pesquisa sobre algoritmos e IA (2).

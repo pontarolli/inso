@@ -1,0 +1,53 @@
+---
+title: "Aula 18 — Apresentação de Trabalhos: Parte 2"
+---
+
+## Objetivos da Aula
+
+- Concluir as **apresentações** do bimestre.
+- Consolidar os **aprendizados** das pesquisas.
+- Preparar a **revisão** do bimestre.
+
+## Roteiro da Aula
+
+- Apresentação dos **grupos restantes**.
+- **Debate** geral após as apresentações.
+- **Síntese** dos principais temas.
+
+## Fechamento dos Temas
+
+- Retomar os **temas apresentados**.
+- Identificar o que houve de **comum** entre eles.
+- Registrar **conclusões** coletivas.
+
+## Síntese Coletiva
+
+- Algoritmos **influenciam** decisões sociais.
+- A IA traz **benefícios e riscos**.
+- É preciso **pensar criticamente** e agir com **ética**.
+
+## Autoavaliação dos Grupos
+
+- O que **funcionou** bem?
+- O que poderia ser **melhorado**?
+- Como foi a **divisão de tarefas**?
+
+::: {.callout-note}
+A devolutiva (próxima aula) dá **retorno** sobre o trabalho — é parte essencial do aprendizado.
+:::
+
+## Preparação para a Revisão
+
+- Reunir as **anotações** do bimestre.
+- Listar **dúvidas** para a aula de revisão.
+- Reler os **pontos principais** de cada tema.
+
+## Resumo da Aula
+
+- Concluímos as **apresentações**.
+- Construímos uma **síntese** coletiva.
+- Fizemos **autoavaliação** dos grupos.
+
+## Próxima Aula
+
+- **Aula 19:** Síntese e revisão do 1º bimestre.

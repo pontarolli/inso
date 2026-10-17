@@ -72,4 +72,4 @@ Sair da bolha exige **esforço ativo**: buscar fontes diversas e questionar o qu
 
 ## Próxima Aula
 
-- **Aula 10:** Inteligência Artificial — conceitos e aplicações.
+- **Aula 11:** Inteligência Artificial — conceitos e aplicações.

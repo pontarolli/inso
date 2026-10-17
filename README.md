@@ -43,16 +43,16 @@ Cronograma com **72 aulas de conteúdo** (18 por bimestre) e **8 avaliações** 
 | 07 | Sociedade da Informação | [aula-07](aulas/aula-07.pdf) | [.qmd](aulas/aula-07-sociedade-da-informacao.qmd) |
 | 08 | Algoritmos e a vida social — Parte 1 | [aula-08](aulas/aula-08.pdf) | [.qmd](aulas/aula-08-algoritmos-e-vida-social-parte-1.qmd) |
 | 09 | Algoritmos e a vida social — Parte 2 | [aula-09](aulas/aula-09.pdf) | [.qmd](aulas/aula-09-algoritmos-e-vida-social-parte-2.qmd) |
-| 10 | Inteligência Artificial: conceitos e aplicações | [aula-10](aulas/aula-10.pdf) | [.qmd](aulas/aula-10-inteligencia-artificial-conceitos.qmd) |
-| 11 | IA e o cotidiano: vídeos e debate | [aula-11](aulas/aula-11.pdf) | [.qmd](aulas/aula-11-ia-e-cotidiano-videos-debate.qmd) |
-| 12 | Ética e IA: questões contemporâneas | [aula-12](aulas/aula-12.pdf) | [.qmd](aulas/aula-12-etica-e-ia.qmd) |
-| 13 | Laboratório: pesquisa sobre algoritmos e IA — Parte 1 | [aula-13](aulas/aula-13.pdf) | [.qmd](aulas/aula-13-laboratorio-pesquisa-algoritmos-ia-1.qmd) |
-| 14 | Laboratório: pesquisa sobre algoritmos e IA — Parte 2 | [aula-14](aulas/aula-14.pdf) | [.qmd](aulas/aula-14-laboratorio-pesquisa-algoritmos-ia-2.qmd) |
-| 15 | Organização e roteiro do trabalho em grupos | [aula-15](aulas/aula-15.pdf) | [.qmd](aulas/aula-15-organizacao-trabalho-em-grupos.qmd) |
-| 16 | Apresentação de trabalhos — Parte 1 | [aula-16](aulas/aula-16.pdf) | [.qmd](aulas/aula-16-apresentacao-trabalhos-parte-1.qmd) |
-| 17 | Apresentação de trabalhos — Parte 2 | [aula-17](aulas/aula-17.pdf) | [.qmd](aulas/aula-17-apresentacao-trabalhos-parte-2.qmd) |
-| 18 | Síntese e revisão do 1º bimestre | [aula-18](aulas/aula-18.pdf) | [.qmd](aulas/aula-18-revisao-bimestre-1.qmd) |
-| 19 | **Avaliação 1 (GIFT, 10 questões)** | — | `aula-19-avaliacao-b1-av1.gift` |
+| 10 | **Avaliação 1 (GIFT, 10 questões)** | — | `aula-10-avaliacao-b1-av1.gift` |
+| 11 | Inteligência Artificial: conceitos e aplicações | [aula-11](aulas/aula-11.pdf) | [.qmd](aulas/aula-11-inteligencia-artificial-conceitos.qmd) |
+| 12 | IA e o cotidiano: vídeos e debate | [aula-12](aulas/aula-12.pdf) | [.qmd](aulas/aula-12-ia-e-cotidiano-videos-debate.qmd) |
+| 13 | Ética e IA: questões contemporâneas | [aula-13](aulas/aula-13.pdf) | [.qmd](aulas/aula-13-etica-e-ia.qmd) |
+| 14 | Laboratório: pesquisa sobre algoritmos e IA — Parte 1 | [aula-14](aulas/aula-14.pdf) | [.qmd](aulas/aula-14-laboratorio-pesquisa-algoritmos-ia-1.qmd) |
+| 15 | Laboratório: pesquisa sobre algoritmos e IA — Parte 2 | [aula-15](aulas/aula-15.pdf) | [.qmd](aulas/aula-15-laboratorio-pesquisa-algoritmos-ia-2.qmd) |
+| 16 | Organização e roteiro do trabalho em grupos | [aula-16](aulas/aula-16.pdf) | [.qmd](aulas/aula-16-organizacao-trabalho-em-grupos.qmd) |
+| 17 | Apresentação de trabalhos — Parte 1 | [aula-17](aulas/aula-17.pdf) | [.qmd](aulas/aula-17-apresentacao-trabalhos-parte-1.qmd) |
+| 18 | Apresentação de trabalhos — Parte 2 | [aula-18](aulas/aula-18.pdf) | [.qmd](aulas/aula-18-apresentacao-trabalhos-parte-2.qmd) |
+| 19 | Síntese e revisão do 1º bimestre | [aula-19](aulas/aula-19.pdf) | [.qmd](aulas/aula-19-revisao-bimestre-1.qmd) |
 | 20 | **Avaliação 2 (GIFT, 10 questões)** | — | `aula-20-avaliacao-b1-av2.gift` |
 
 ### 2º Bimestre — Tecnologia, Trabalho e Sociedade
@@ -68,16 +68,16 @@ Cronograma com **72 aulas de conteúdo** (18 por bimestre) e **8 avaliações** 
 | 27 | Uberização e plataformização do trabalho | [aula-27](aulas/aula-27.pdf) | [.qmd](aulas/aula-27-uberizacao-plataformizacao.qmd) |
 | 28 | Precarização e novas formas de gestão | [aula-28](aulas/aula-28.pdf) | [.qmd](aulas/aula-28-precarizacao-gestao-algoritmica.qmd) |
 | 29 | Documentário "Vidas Entregues": exibição e debate | [aula-29](aulas/aula-29.pdf) | [.qmd](aulas/aula-29-vidas-entregues-documentario.qmd) |
-| 30 | Atividade escrita: trabalho e tecnologia | [aula-30](aulas/aula-30.pdf) | [.qmd](aulas/aula-30-atividade-trabalho-e-tecnologia.qmd) |
-| 31 | Indústria 4.0 — Parte 1 | [aula-31](aulas/aula-31.pdf) | [.qmd](aulas/aula-31-industria-4-0-parte-1.qmd) |
-| 32 | Indústria 4.0 — Parte 2 | [aula-32](aulas/aula-32.pdf) | [.qmd](aulas/aula-32-industria-4-0-parte-2.qmd) |
-| 33 | A sociedade em redes | [aula-33](aulas/aula-33.pdf) | [.qmd](aulas/aula-33-sociedade-em-redes.qmd) |
-| 34 | Cultura, diversidade e tecnologia — Parte 1 | [aula-34](aulas/aula-34.pdf) | [.qmd](aulas/aula-34-cultura-diversidade-tecnologia-parte-1.qmd) |
-| 35 | Cultura, diversidade e tecnologia — Parte 2 | [aula-35](aulas/aula-35.pdf) | [.qmd](aulas/aula-35-cultura-diversidade-tecnologia-parte-2.qmd) |
-| 36 | Diversidade na internet: possibilidade ou problema? | [aula-36](aulas/aula-36.pdf) | [.qmd](aulas/aula-36-diversidade-na-internet.qmd) |
-| 37 | Laboratório: elaboração da atividade bimestral | [aula-37](aulas/aula-37.pdf) | [.qmd](aulas/aula-37-laboratorio-atividade-bimestral.qmd) |
-| 38 | Síntese e revisão do 2º bimestre | [aula-38](aulas/aula-38.pdf) | [.qmd](aulas/aula-38-revisao-bimestre-2.qmd) |
-| 39 | **Avaliação 1 (GIFT, 10 questões)** | — | `aula-39-avaliacao-b2-av1.gift` |
+| 30 | **Avaliação 1 (GIFT, 10 questões)** | — | `aula-30-avaliacao-b2-av1.gift` |
+| 31 | Atividade escrita: trabalho e tecnologia | [aula-31](aulas/aula-31.pdf) | [.qmd](aulas/aula-31-atividade-trabalho-e-tecnologia.qmd) |
+| 32 | Indústria 4.0 — Parte 1 | [aula-32](aulas/aula-32.pdf) | [.qmd](aulas/aula-32-industria-4-0-parte-1.qmd) |
+| 33 | Indústria 4.0 — Parte 2 | [aula-33](aulas/aula-33.pdf) | [.qmd](aulas/aula-33-industria-4-0-parte-2.qmd) |
+| 34 | A sociedade em redes | [aula-34](aulas/aula-34.pdf) | [.qmd](aulas/aula-34-sociedade-em-redes.qmd) |
+| 35 | Cultura, diversidade e tecnologia — Parte 1 | [aula-35](aulas/aula-35.pdf) | [.qmd](aulas/aula-35-cultura-diversidade-tecnologia-parte-1.qmd) |
+| 36 | Cultura, diversidade e tecnologia — Parte 2 | [aula-36](aulas/aula-36.pdf) | [.qmd](aulas/aula-36-cultura-diversidade-tecnologia-parte-2.qmd) |
+| 37 | Diversidade na internet: possibilidade ou problema? | [aula-37](aulas/aula-37.pdf) | [.qmd](aulas/aula-37-diversidade-na-internet.qmd) |
+| 38 | Laboratório: elaboração da atividade bimestral | [aula-38](aulas/aula-38.pdf) | [.qmd](aulas/aula-38-laboratorio-atividade-bimestral.qmd) |
+| 39 | Síntese e revisão do 2º bimestre | [aula-39](aulas/aula-39.pdf) | [.qmd](aulas/aula-39-revisao-bimestre-2.qmd) |
 | 40 | **Avaliação 2 (GIFT, 10 questões)** | — | `aula-40-avaliacao-b2-av2.gift` |
 
 ### 3º Bimestre — Cultura Digital, Fake News e IA Generativa
@@ -93,16 +93,16 @@ Cronograma com **72 aulas de conteúdo** (18 por bimestre) e **8 avaliações** 
 | 47 | TikTok: introdução e questões | [aula-47](aulas/aula-47.pdf) | [.qmd](aulas/aula-47-tiktok-introducao.qmd) |
 | 48 | TikTok, educação e socialização | [aula-48](aulas/aula-48.pdf) | [.qmd](aulas/aula-48-tiktok-educacao-socializacao.qmd) |
 | 49 | Fake news e a era da pós-verdade — Parte 1 | [aula-49](aulas/aula-49.pdf) | [.qmd](aulas/aula-49-fake-news-pos-verdade-parte-1.qmd) |
-| 50 | Fake news e a era da pós-verdade — Parte 2 | [aula-50](aulas/aula-50.pdf) | [.qmd](aulas/aula-50-fake-news-pos-verdade-parte-2.qmd) |
-| 51 | Checagem de fatos e verificação de informação | [aula-51](aulas/aula-51.pdf) | [.qmd](aulas/aula-51-checagem-de-fatos.qmd) |
-| 52 | Tribunal digital: preparação (defesa e acusação) | [aula-52](aulas/aula-52.pdf) | [.qmd](aulas/aula-52-tribunal-digital-preparacao.qmd) |
-| 53 | Tribunal digital: júri e apresentação | [aula-53](aulas/aula-53.pdf) | [.qmd](aulas/aula-53-tribunal-digital-juri.qmd) |
-| 54 | Devolutiva do tribunal digital | [aula-54](aulas/aula-54.pdf) | [.qmd](aulas/aula-54-devolutiva-tribunal-digital.qmd) |
-| 55 | ChatGPT: introdução | [aula-55](aulas/aula-55.pdf) | [.qmd](aulas/aula-55-chatgpt-introducao.qmd) |
-| 56 | ChatGPT: funções e aplicações | [aula-56](aulas/aula-56.pdf) | [.qmd](aulas/aula-56-chatgpt-funcoes-aplicacoes.qmd) |
-| 57 | IA generativa: riscos e limitações | [aula-57](aulas/aula-57.pdf) | [.qmd](aulas/aula-57-ia-generativa-riscos-limitacoes.qmd) |
-| 58 | Síntese e revisão do 3º bimestre | [aula-58](aulas/aula-58.pdf) | [.qmd](aulas/aula-58-revisao-bimestre-3.qmd) |
-| 59 | **Avaliação 1 (GIFT, 10 questões)** | — | `aula-59-avaliacao-b3-av1.gift` |
+| 50 | **Avaliação 1 (GIFT, 10 questões)** | — | `aula-50-avaliacao-b3-av1.gift` |
+| 51 | Fake news e a era da pós-verdade — Parte 2 | [aula-51](aulas/aula-51.pdf) | [.qmd](aulas/aula-51-fake-news-pos-verdade-parte-2.qmd) |
+| 52 | Checagem de fatos e verificação de informação | [aula-52](aulas/aula-52.pdf) | [.qmd](aulas/aula-52-checagem-de-fatos.qmd) |
+| 53 | Tribunal digital: preparação (defesa e acusação) | [aula-53](aulas/aula-53.pdf) | [.qmd](aulas/aula-53-tribunal-digital-preparacao.qmd) |
+| 54 | Tribunal digital: júri e apresentação | [aula-54](aulas/aula-54.pdf) | [.qmd](aulas/aula-54-tribunal-digital-juri.qmd) |
+| 55 | Devolutiva do tribunal digital | [aula-55](aulas/aula-55.pdf) | [.qmd](aulas/aula-55-devolutiva-tribunal-digital.qmd) |
+| 56 | ChatGPT: introdução | [aula-56](aulas/aula-56.pdf) | [.qmd](aulas/aula-56-chatgpt-introducao.qmd) |
+| 57 | ChatGPT: funções e aplicações | [aula-57](aulas/aula-57.pdf) | [.qmd](aulas/aula-57-chatgpt-funcoes-aplicacoes.qmd) |
+| 58 | IA generativa: riscos e limitações | [aula-58](aulas/aula-58.pdf) | [.qmd](aulas/aula-58-ia-generativa-riscos-limitacoes.qmd) |
+| 59 | Síntese e revisão do 3º bimestre | [aula-59](aulas/aula-59.pdf) | [.qmd](aulas/aula-59-revisao-bimestre-3.qmd) |
 | 60 | **Avaliação 2 (GIFT, 10 questões)** | — | `aula-60-avaliacao-b3-av2.gift` |
 
 ### 4º Bimestre — Ética, Cidadania e Diversidade na Era Digital
@@ -118,16 +118,16 @@ Cronograma com **72 aulas de conteúdo** (18 por bimestre) e **8 avaliações** 
 | 67 | Tecnologia e cultura periférica | [aula-67](aulas/aula-67.pdf) | [.qmd](aulas/aula-67-tecnologia-e-cultura-periferica.qmd) |
 | 68 | Pobreza e estratificação social | [aula-68](aulas/aula-68.pdf) | [.qmd](aulas/aula-68-pobreza-e-estratificacao-social.qmd) |
 | 69 | Tecnologia, poder e democracia | [aula-69](aulas/aula-69.pdf) | [.qmd](aulas/aula-69-tecnologia-poder-e-democracia.qmd) |
-| 70 | Laboratório: jogo do "apocalipse" — preparação | [aula-70](aulas/aula-70.pdf) | [.qmd](aulas/aula-70-laboratorio-jogo-do-apocalipse.qmd) |
-| 71 | Jogo do "apocalipse": atividade bimestral | [aula-71](aulas/aula-71.pdf) | [.qmd](aulas/aula-71-jogo-do-apocalipse.qmd) |
-| 72 | Devolutiva e reflexão sobre a atividade | [aula-72](aulas/aula-72.pdf) | [.qmd](aulas/aula-72-devolutiva-atividade-final.qmd) |
-| 73 | Inclusão e acessibilidade digital | [aula-73](aulas/aula-73.pdf) | [.qmd](aulas/aula-73-inclusao-e-acessibilidade-digital.qmd) |
-| 74 | Empreendedorismo e inovação social | [aula-74](aulas/aula-74.pdf) | [.qmd](aulas/aula-74-empreendedorismo-e-inovacao-social.qmd) |
-| 75 | Revisão geral do curso — Parte 1 | [aula-75](aulas/aula-75.pdf) | [.qmd](aulas/aula-75-revisao-geral-curso-parte-1.qmd) |
-| 76 | Revisão geral do curso — Parte 2 | [aula-76](aulas/aula-76.pdf) | [.qmd](aulas/aula-76-revisao-geral-curso-parte-2.qmd) |
-| 77 | Recuperação e reavaliação | [aula-77](aulas/aula-77.pdf) | [.qmd](aulas/aula-77-recuperacao-e-reavaliacao.qmd) |
-| 78 | Encerramento do ano letivo | [aula-78](aulas/aula-78.pdf) | [.qmd](aulas/aula-78-encerramento-ano-letivo.qmd) |
-| 79 | **Avaliação 1 (GIFT, 10 questões)** | — | `aula-79-avaliacao-b4-av1.gift` |
+| 70 | **Avaliação 1 (GIFT, 10 questões)** | — | `aula-70-avaliacao-b4-av1.gift` |
+| 71 | Laboratório: jogo do "apocalipse" — preparação | [aula-71](aulas/aula-71.pdf) | [.qmd](aulas/aula-71-laboratorio-jogo-do-apocalipse.qmd) |
+| 72 | Jogo do "apocalipse": atividade bimestral | [aula-72](aulas/aula-72.pdf) | [.qmd](aulas/aula-72-jogo-do-apocalipse.qmd) |
+| 73 | Devolutiva e reflexão sobre a atividade | [aula-73](aulas/aula-73.pdf) | [.qmd](aulas/aula-73-devolutiva-atividade-final.qmd) |
+| 74 | Inclusão e acessibilidade digital | [aula-74](aulas/aula-74.pdf) | [.qmd](aulas/aula-74-inclusao-e-acessibilidade-digital.qmd) |
+| 75 | Empreendedorismo e inovação social | [aula-75](aulas/aula-75.pdf) | [.qmd](aulas/aula-75-empreendedorismo-e-inovacao-social.qmd) |
+| 76 | Revisão geral do curso — Parte 1 | [aula-76](aulas/aula-76.pdf) | [.qmd](aulas/aula-76-revisao-geral-curso-parte-1.qmd) |
+| 77 | Revisão geral do curso — Parte 2 | [aula-77](aulas/aula-77.pdf) | [.qmd](aulas/aula-77-revisao-geral-curso-parte-2.qmd) |
+| 78 | Recuperação e reavaliação | [aula-78](aulas/aula-78.pdf) | [.qmd](aulas/aula-78-recuperacao-e-reavaliacao.qmd) |
+| 79 | Encerramento do ano letivo | [aula-79](aulas/aula-79.pdf) | [.qmd](aulas/aula-79-encerramento-ano-letivo.qmd) |
 | 80 | **Avaliação 2 (GIFT, 10 questões)** | — | `aula-80-avaliacao-b4-av2.gift` |
 
 ---
